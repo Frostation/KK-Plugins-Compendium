@@ -298,14 +298,20 @@
 - Author(s):         https://github.com/SNW-KK/KK_BreastPhysicsController
 - More information:  https://ux.getuploader.com/koi_util/index/date/desc/1
 
-# Ahegao
+# KK_Ahegao
 - Short description: Allows adjustment of the ahegao face expression. (How long until it is activated during H)
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
 - More information:  N/A (Mod can be acquired via either the HF-Patch or acquiring it within the Illusion/Koikatsu Discord Servers)
+
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2018/10/koikatu.html
+
+# KK_GamepadSupport
+- Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KK_GamepadSupport
 
 # KK_HCameraLight
 - Short description: This plugin allows you to change some light settings during H (Older variation of the plugin)
@@ -317,6 +323,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/HLightControl
 
+# KK_LewdCrest
+- Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
+- Author(s):         http://uppervolta-3d.net/illu/upload.php (Uknown but will be changed as soon as notified)
+- More information:  http://uppervolta-3d.net/illu/upload.php
+
 # KK_MakerAdditions
 - Short description: This plugin adds extra features to the character maker. (Adjusting accessories beyond the 100 -100 limit and further movement 0.01 position, 0.1 angle)
 - Author(s):         https://github.com/Mantas-2155X
@@ -326,6 +337,11 @@
 - Short description: This plugin allows you search items in the Character Maker.
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/MakerSearch
+
+# KK_NightDarkener
+- Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_Pregnancy
 - Short description: Plugin that adds pregnancy gameplay to the main game with related maker customization options.
