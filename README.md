@@ -1,5 +1,5 @@
 # KK-Plugins-Compendium
- Hello good people. I have made this repository for the sole purpose to assist the koikatsu modding community in compiling/documenting plugins all in one place this is an archive made to gather tutorials,general knowledge,links and info about most of Koikatsu related Plugins made for the game by the modding community. 
+ Hello good people. I have made this repository for the sole purpose to assist the koikatsu modding community and Koikatsu users to find plugins a bit easier by compiling/documenting most if not all plugins in one place. This is an archive made to gather tutorials,general knowledge,links and info about most of Koikatsu related Plugins made for the game by the modding community. 
 
  - In this archive you will be able to find most plugins that are compiled into the HF-Patch/Better Repack and other various plugins made by the modding community which would be a nice addition to ones game.
   
