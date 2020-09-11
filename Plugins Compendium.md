@@ -305,8 +305,8 @@
 
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
-- Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
-- More information:  https://blog.maki0419.com/2018/10/koikatu.html
+- Author(s):         https://ux.getuploader.com/56e4_xXVv/ (Unknown will be updated as soon as notified)
+- More information:  https://ux.getuploader.com/56e4_xXVv/download/94
 
 # KK_GamepadSupport
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
