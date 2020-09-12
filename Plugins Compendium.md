@@ -138,6 +138,16 @@
 - Author(s):         https://github.com/BepInEx/
 - More information:  https://github.com/BepInEx/BepInEx.ConfigurationManager
 
+# Coordinate Capture Pose Unlock
+- Short description: Lifting the posture restriction when archiving photo costumes. (I.E the pose you save your outfits with will be saved in your outfit folder)
+- Author(s):         https://blog.maki0419.com/search/label/Koikatu
+- More information:  https://blog.maki0419.com/2020/06/koikatu-coordinate-capture-pose-unlock.html#more
+
+# Coordinate Load Option
+- Short description: Adds additional options when loading clothing outfits for characters.
+- Author(s):         https://blog.maki0419.com/search/label/Koikatu
+- More information:  https://blog.maki0419.com/2019/03/koikatu-coordinate-load-option.html
+
 # DefaultParamEditor
 - Short description: Allows editing default settings for character/scene parameters such as eye blinking or shadow density.
 - Author(s):         https://github.com/Keelhauled      
@@ -177,6 +187,11 @@
 - Short description: Virgins in H scenes will appear to have slightly shaking eye highlights.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# FBI Open Up
+- Short description: Adds the option to lolify a character. (ABMX Settings are not calculated, please read the info thoroughly)
+- Author(s):         https://blog.maki0419.com/search/label/Koikatu
+- More information:  https://blog.maki0419.com/2020/01/koikatu-fbi-open-up.html#more
 
 # Fix Shader Dropdown Menu
 - Short description: Fixes shader drop down menu not opening correctly
@@ -508,6 +523,11 @@
 - Author(s):         https://blog.maki0419.com/
 - More information:  https://blog.maki0419.com/2020/01/koikatu-plugin-list-tool.html
 
+# PNG Capture Size Modifier
+- Short description: Allows one to have custom sized cards for when saving in studio/charamaker. (Please read the info thoroughly for this plugin to avoid issues)
+- Author(s):         https://blog.maki0419.com/
+- More information:  https://blog.maki0419.com/2020/02/koikatu-png-capture-size-modifier.html
+
 # Pose Folders
 - Short description: Create new folders in userdata/studio/pose and place the pose data inside them. Folders will show up in your list of poses in Studio.
 - Author(s):         https://github.com/DeathWeasel1337
@@ -627,10 +647,20 @@
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/05/koikatu-studio-chara-only-load-body.html
 
+# Studio Chika Replacer
+- Short description: A plugins which gives the option to replace all characters within a scene with chika quickly to save the scene for publishing without giving your own private cards.
+- Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
+- More information:  https://blog.maki0419.com/2020/02/koikatu-studio-chika-replacer.html
+
 # Studio Custom Masking
 - Short description: Allows you to add map masking functionality for maps made out of items in Studio.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# Studio Dual Screen
+- Short description: Allows for a dual screen feature for studio.
+- Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
+- More information:  https://blog.maki0419.com/2020/03/koikatu-studio-dual-screen.html
 
 # Studio MultiSelect Chara
 - Short description: If you select a character in studio and press the hotkey, all other instances of that character in the scene will also be selected. 
@@ -651,6 +681,11 @@
 - Short description: Properly reflefcts poses made with IK when switching over when reflecting.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/05/koikatu-studio-reflect-fk-fix.html
+
+# Studio Save Workspace Order Fix
+- Short description: Properly saves the workspace in the order you have assigned your characters/items to.
+- Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
+- More information:  https://blog.maki0419.com/2020/05/koikatu-studio-save-workspace-order-fix.html#more
 
 # Studio Scene Loaded Sound
 - Short description: Plays a sound when a Studio scene finishes loading or importing. Useful if you spend the load time for large scenes alt-tabbed.
