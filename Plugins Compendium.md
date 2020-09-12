@@ -263,6 +263,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/HideAllUI
 
+# Illusion Launcher (Application)
+- Short description: While not a plugin this is an updated launcher for illusion games to work in tandem with some plugins that allows one to enable/disable them from the launcher and other various options.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/IllusionLaunchers
+
 # Image Embed
 - Short description: This plugin will save .png files from your userdata folder to the scene data so anyone else can load the scene properly without needing the same .png.
 - Author(s):         https://github.com/DeathWeasel1337
@@ -382,6 +387,11 @@
 - Short description: This plugin allows you to have first person view in Studio.
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioPOV
+
+# KK_SFW
+- Short description: Disables some content that could be considered NSFW/+18 so that one can use KK in a SFW environment. (Can be disabled via the Illusion Luancher for KK)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/IllusionSFW
 
 # KK_VMDPlayPlugin
 - Short description: Allows one to play VMD motions from MMD in koikatsu.
