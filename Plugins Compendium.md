@@ -189,7 +189,7 @@
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # FBI Open Up
-- Short description: Adds the option to lolify a character. (ABMX Settings are not calculated, please read the info thoroughly)
+- Short description: Adds the option to significantly change a character to that of a much younger age. (ABMX Settings are not calculated, please read the info thoroughly)
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2020/01/koikatu-fbi-open-up.html#more
 
