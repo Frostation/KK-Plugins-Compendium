@@ -54,7 +54,7 @@
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Card Author Data
-- Short description: Ability to save a card with an author (Name of the maker) attached to it. (Note:Has been merded into Modding API plugin)
+- Short description: Ability to save a card with an author (Name of the maker) attached to it. (Note:Has been merged into Modding API plugin)
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionModdingAPI
 
