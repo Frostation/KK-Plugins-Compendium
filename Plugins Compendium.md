@@ -597,6 +597,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/RuntimeUnityEditor
 
+# Save Load Compression
+- Short description: Compresses Cards Saved to a very small size. (Do be aware that cards compressed/saved with this plugin will not work without it)
+- Author(s):         https://blog.maki0419.com/search/label/Koikatu
+- More information:  https://blog.maki0419.com/2020/06/koikatu-save-load-compression.html
+
 # Screenshot Manager
 - Short description: Creates screenshots based on settings. Can create screenshots of much higher resolution than what the game is running at. 
 - Author(s):         https://github.com/IllusionMods
@@ -661,6 +666,11 @@
 - Short description: Allows for a dual screen feature for studio.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/03/koikatu-studio-dual-screen.html
+
+# Studio Menu Scrolling Text
+- Short description: Add scrolling display function for group lists and category lists for added items within character studio.
+- Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
+- More information:  https://blog.maki0419.com/2020/09/koikatu-studio-menu-scrolling-text.html
 
 # Studio MultiSelect Chara
 - Short description: If you select a character in studio and press the hotkey, all other instances of that character in the scene will also be selected. 
@@ -766,6 +776,11 @@
 - Short description: Video and image sequence recorder with which one can make a multitude of things from videos/gifs/webms... etc.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
+
+# What are you saying?
+- Short description: Renders all text useless and turn them into giberrish. (Please do not install unless you intentionally want to do so for a joke.)
+- Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
+- More information:  https://blog.maki0419.com/2020/09/koikatu-what-are-you-saying.html
 
 # Xunity Auto Translator
 - Short description: Translation loader.
