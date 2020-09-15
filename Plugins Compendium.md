@@ -343,6 +343,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/HLightControl
 
+# KK_HSceneOptions
+- Short description: Adds additional Options and Keyboard shortcuts to H-scenes within Koikatsu. (Check the requirements for this plugin it requires After School DLC.)
+- Author(s):         https://github.com/MayouKurayami
+- More information:  https://github.com/MayouKurayami/KK_HSceneOptions
+
 # KK_ItemBlacklist
 - Short description: Adds the ability to hide items from character maker by right clicking (Also checking which modded items are for what zipmod) [Note:Check the requirements of the plugin for proper installation.]
 - Author(s):         https://github.com/DeathWeasel1337/
