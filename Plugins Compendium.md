@@ -343,6 +343,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/HLightControl
 
+# KK_ItemBlacklist
+- Short description: Adds the ability to hide items from character maker by right clicking (Also checking which modded items are for what zipmod) [Note:Check the requirements of the plugin for proper installation.]
+- Author(s):         https://github.com/DeathWeasel1337/
+- More information:  https://www.patreon.com/posts/41607128
+
 # KK_LewdCrest
 - Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
 - Author(s):         http://uppervolta-3d.net/illu/upload.php (Uknown but will be changed as soon as notified)
