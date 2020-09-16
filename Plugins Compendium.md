@@ -368,6 +368,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/MakerSearch
 
+# KK_Manager
+- Short description: KKManager is a Mod,Plugin,Card manager tool which is widely used for updating the sideloader modpack. (It does not update plugins but it can be used for other useful things for further info check the links bellow)
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KKManager
+
 # KK_NightDarkener
 - Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
 - Author(s):         https://github.com/ManlyMarco
