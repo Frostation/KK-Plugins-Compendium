@@ -16,6 +16,8 @@
  
  - Please do note that while many to most of these plugins work in tandem, a small number of them do not and some are older versions of said plugins that have been listed here to be documented and found if a user is looking for the older version.
 
+ - Some plugins fall under a one file catagory meaning that getting a singular file such as IllusionFixes for example gives one a multitude of plugins that have been listed in the compendium, hence multiple downloads of the same file are unecessary. 
+
  - Note while some of these plugins have an alternative version made for other illusion games, most of these plugins were made/converted for Koikatsu Only.
 
 - This archive is currently a WIP and future changes will happen to it, so please be patient with us and thank you for your time.

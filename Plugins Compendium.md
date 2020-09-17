@@ -263,6 +263,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/HideAllUI
 
+# IllusionFixes
+- Short description: A vast collection of performance and quality of life tune ups for the game.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/IllusionFixes
+
 # Illusion Launcher (Application)
 - Short description: While not a plugin this is an updated launcher for illusion games to work in tandem with some plugins that allows one to enable/disable them from the launcher and other various options.
 - Author(s):         https://github.com/IllusionMods
