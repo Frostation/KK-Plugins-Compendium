@@ -310,8 +310,8 @@
 
 # KK Uniform Uniforms
 - Short description: Let's one make a uniformal outfit color scheme for characters within game.   
-- Author(s):         https://github.com/cptgrey/KK_UniformUniforms
-- More information:  https://github.com/cptgrey/KK_UniformUniforms
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KK_UniformUniforms#kk_uniformuniforms
 
 # KK_AccStateSync
 - Short description: Plugin which gives on the option to have accessories on or off during different clothing states (On/Half-on/Off)
