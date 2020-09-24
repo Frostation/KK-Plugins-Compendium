@@ -106,7 +106,7 @@
 # Cheat Tools
 - Short description: Trainer for some games made by Illusion. It allows control over most aspects of the game.
 - Author(s):         https://github.com/ManlyMarco
-- More information:  https://github.com/ManlyMarco/IllusionCheatTools/tree/master/AI_CheatTools
+- More information:  https://github.com/ManlyMarco/IllusionCheatTools
 
 # Clothes Overlay Mod
 - Short description: Enables one to customize the texture of the base clothing within the game or the ones modded in.
