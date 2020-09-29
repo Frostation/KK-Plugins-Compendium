@@ -308,25 +308,25 @@
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
-# KK Uniform Uniforms
-- Short description: Let's one make a uniformal outfit color scheme for characters within game.   
-- Author(s):         https://github.com/ManlyMarco
-- More information:  https://github.com/ManlyMarco/KK_UniformUniforms#kk_uniformuniforms
-
 # KK_AccStateSync
 - Short description: Plugin which gives on the option to have accessories on or off during different clothing states (On/Half-on/Off)
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccStateSync
 
-# KK_BreastPhysicsController
-- Short description: Adds the option for one to customize the breast physics per outfit/per outfit state. (If you get error spams it's due to missing config file read the readme/manual)
-- Author(s):         https://github.com/SNW-KK/KK_BreastPhysicsController
-- More information:  https://ux.getuploader.com/koi_util/index/date/desc/1
-
 # KK_Ahegao
 - Short description: Allows adjustment of the ahegao face expression. (How long until it is activated during H)
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
 - More information:  N/A (Mod can be acquired via either the HF-Patch or acquiring it within the Illusion/Koikatsu Discord Servers)
+
+# KK_AdvIKPlugin
+- Short description: Allows one to adjust shoulder rotation and make more smoother and more natrual poses when using IK within character studio.
+- Author(s):         https://github.com/OrangeSpork/
+- More information:  https://github.com/OrangeSpork/AdvIKPlugin
+
+# KK_BreastPhysicsController
+- Short description: Adds the option for one to customize the breast physics per outfit/per outfit state. (If you get error spams it's due to missing config file read the readme/manual)
+- Author(s):         https://github.com/SNW-KK/KK_BreastPhysicsController
+- More information:  https://ux.getuploader.com/koi_util/index/date/desc/1
 
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
@@ -412,6 +412,11 @@
 - Short description: Disables some content that could be considered NSFW/+18 so that one can use KK in a SFW environment. (Can be disabled via the Illusion Luancher for KK)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionSFW
+
+# KK Uniform Uniforms
+- Short description: Let's one make a uniformal outfit color scheme for characters within game.   
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KK_UniformUniforms#kk_uniformuniforms
 
 # KK_VMDPlayPlugin
 - Short description: Allows one to play VMD motions from MMD in koikatsu.
