@@ -33,6 +33,11 @@
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/IPALoaderX
 
+# BepInEx 4 Upgrader patcher
+- Short description: This preloader patcher allows to use BepInEx 4 plugins in BepInEx 5.
+- Author(s):         https://github.com/BepInEx
+- More information:  https://github.com/BepInEx/BepInEx.BepInEx4Upgrader
+
 # BepisPlugins 
 - Short description: Mandatory plugins needed for other plugins to function.
 - Author(s):         https://github.com/IllusionMods
@@ -185,6 +190,11 @@
 
 # Eye Shaking
 - Short description: Virgins in H scenes will appear to have slightly shaking eye highlights.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# Fade Adjuster
+- Short description: Allows one to edit the in-out fade color or disable it within the game.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
