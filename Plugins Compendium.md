@@ -812,10 +812,10 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
-# UnlockHPositions
+# UnlockHPositions (Abandoned and Merged into CheatTools)
 - Short description: A plugin that allowes one to unlock all the games available positions from the start.
 - Author(s):         https://github.com/Keelhauled
-- More information:  https://github.com/Keelhauled/KoikatuPlugins
+- More information:  N/A
 
 # Video Export
 - Short description: Video and image sequence recorder with which one can make a multitude of things from videos/gifs/webms... etc.
