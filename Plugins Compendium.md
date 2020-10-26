@@ -403,6 +403,11 @@
 - Author(s):         https://github.com/FairBear
 - More information:  https://github.com/FairBear/KK_PovX
 
+# KK_Profile 
+- Short description: Adds a profile text box for one to add a character describtion for their cards in character maker.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
 # KK_QuickAccessBox
 - Short description: A quick access list for searching through all of the items, both stock and modded within character studio.
 - Author(s):         https://github.com/ManlyMarco
