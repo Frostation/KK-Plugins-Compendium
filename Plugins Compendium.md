@@ -323,6 +323,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccStateSync
 
+# KK_AccessoryClothes
+- Short description: This plugin allows for accessories that are made with this plugin in mind to be manipulated by the body bones. (I.E A scarf over a shoulder bending with when the shoulder moves upwards instead of just clipping through.)
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://www.patreon.com/posts/accessoryclothes-43222792
+
 # KK_Ahegao
 - Short description: Allows adjustment of the ahegao face expression. (How long until it is activated during H)
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
