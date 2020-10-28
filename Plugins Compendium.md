@@ -403,6 +403,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
+# KK_Orthographic Camera
+- Short description: Adds a parrelel projection of the camera like the ones from Diablo 2/Fallout 2 to the game it can be used in main game/studio/maker the shortcut key is "I" (Can be changed in plugins settings)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
 # KK_PovX
 - Short description: Adds a PoV function to Koikatsu (Older Variant)
 - Author(s):         https://github.com/FairBear
