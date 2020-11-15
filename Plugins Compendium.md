@@ -348,6 +348,11 @@
 - Author(s):         https://ux.getuploader.com/56e4_xXVv/ (Unknown will be updated as soon as notified)
 - More information:  https://ux.getuploader.com/56e4_xXVv/download/94
 
+# KK_CumOnOver
+- Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/KK_CumOnOver
+
 # KK_GamepadSupport
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://github.com/ManlyMarco
@@ -392,6 +397,11 @@
 - Short description: KKManager is a Mod,Plugin,Card manager tool which is widely used for updating the sideloader modpack. (It does not update plugins but it can be used for other useful things for further info check the links bellow)
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KKManager
+
+# KK_MovUrAcc
+- Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
+- Author(s):         https://github.com/Madevil
+- More information:  https://github.com/Madevil/KK_MovUrAcc
 
 # KK_NightDarkener
 - Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
