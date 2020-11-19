@@ -433,6 +433,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/QuickAccessBox
 
+# KK_StudioAccessoryNames
+- Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to 'Headband'
+- Author(s):         https://github.com/Mantas-2155X
+- More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
+
 # KK_StudioCharaSort
 - Short description: It lets one specify a default sorting for character and coordinate lists in Studio.
 - Author(s):         https://github.com/Madevil/
