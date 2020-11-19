@@ -434,7 +434,7 @@
 - More information:  https://github.com/ManlyMarco/QuickAccessBox
 
 # KK_StudioAccessoryNames
-- Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to 'Headband'
+- Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
 
