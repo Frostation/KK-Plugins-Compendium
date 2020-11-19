@@ -7,6 +7,8 @@
  ### Things to take a note of
  
  - In this archive you will be able to find most plugins that are compiled into the HF-Patch/Better Repack and other various plugins made by the modding community which would be a nice addition to ones game.
+
+ - For information regarding what plugins are included in each iteration of the HF patch please take a look at this page [HF-Patch Plugins List](https://github.com/ManlyMarco/KK-HF_Patch/blob/master/Plugin%20Readme.md).
   
  - To get info about individual plugins, you as the user need to head over to [Plugins Compendium](https://github.com/Frostation/KK-Plugins-Compendium/blob/master/Plugins%20Compendium.md) and browse through the massive list of plugins currently available, most plugins listed there have the name of their Author(s) along with a link to acquiring the plugin/more information. 
  
