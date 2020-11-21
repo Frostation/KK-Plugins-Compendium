@@ -433,6 +433,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/QuickAccessBox
 
+# KK_SliderHighlight
+- Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) 
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/IL_SliderHighlight
+
 # KK_StudioAccessoryNames
 - Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
 - Author(s):         https://github.com/Mantas-2155X
