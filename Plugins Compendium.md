@@ -318,6 +318,11 @@
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
+# KK_AccGotHigh
+- Short description: Highlights Accessories that are hovered over via cursor within the charactermaker of the game. (Useful for identifying where some accessories are positions where there are duplicates)
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/KK_AccGotHigh
+
 # KK_AccStateSync
 - Short description: Plugin which gives on the option to have accessories on or off during different clothing states (On/Half-on/Off)
 - Author(s):         https://github.com/Madevil/
