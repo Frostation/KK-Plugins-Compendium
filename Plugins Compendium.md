@@ -318,7 +318,7 @@
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
-# KK_AccGotHigh
+# KK_AccGotHigh (This same function was added to SliderHighlight)
 - Short description: Highlights Accessories that are hovered over via cursor within the charactermaker of the game. (Useful for identifying where some accessories are positions where there are duplicates)
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccGotHigh
@@ -439,7 +439,7 @@
 - More information:  https://github.com/ManlyMarco/QuickAccessBox
 
 # KK_SliderHighlight
-- Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) 
+- Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IL_SliderHighlight
 
