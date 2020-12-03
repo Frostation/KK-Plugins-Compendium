@@ -4,7 +4,7 @@
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # Additional Skin Effect
-- Short description: Adds various and special skin effects that are not present in vanilla.
+- Short description: Adds various and special skin effects that are not present vanilla.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_SkinEffects
 
@@ -385,7 +385,7 @@
 
 # KK_LewdCrest
 - Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
-- Author(s):         http://uppervolta-3d.net/illu/upload.php (Uknown but will be changed as soon as notified)
+- Author(s):         http://uppervolta-3d.net/illu/upload.php (Unknown but will be changed as soon as notified)
 - More information:  http://uppervolta-3d.net/illu/upload.php
 
 # KK_MakerAdditions
