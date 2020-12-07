@@ -323,6 +323,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccGotHigh
 
+# KK_AutoSave
+- Short description: Autosaves cards and scenes within studio in a defined interval which can be changed in the plugins menu by defualt it's 5 minutes. (Note:This plugin is not designed to save your progress within main game it is only intended for card and scene making.)
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://www.patreon.com/posts/44708282
+
 # KK_AccStateSync
 - Short description: Plugin which gives on the option to have accessories on or off during different clothing states (On/Half-on/Off)
 - Author(s):         https://github.com/Madevil/
@@ -447,6 +452,11 @@
 - Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
+
+# KK_StudioCameraObjectTweaks
+- Short description: Plugin that tweaks the way the camera tool in the workspace works whenever spawning a new one, instead of it being spawned in a origin to be tweaked thoroughly to get the right angle it'll spawn with the angle that ones camera has in studio instead.
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_StudioCharaSort
 - Short description: It lets one specify a default sorting for character and coordinate lists in Studio.
