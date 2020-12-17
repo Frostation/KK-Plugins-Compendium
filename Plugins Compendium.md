@@ -363,6 +363,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_CumOnOver
 
+# KK_EyeControl
+- Short description: Adds some additional options in maker which allows one to control how much a characters eyes open or have them permanently closed.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
 # KK_GamepadSupport
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://github.com/ManlyMarco
