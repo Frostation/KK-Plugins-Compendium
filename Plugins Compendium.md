@@ -53,6 +53,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
+# Breastmilk
+- Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # Camera Target Fix
 - Short description: Fixes the center in which characters would look at when designated.
 - Author(s):         https://github.com/IllusionMods
@@ -153,6 +158,11 @@
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2019/03/koikatu-coordinate-load-option.html
 
+# CyuNoVR
+- Short description: Changes the normal kiss to a french kiss during H-Scenes. (Does not work with VR)
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # DefaultParamEditor
 - Short description: Allows editing default settings for character/scene parameters such as eye blinking or shadow density.
 - Author(s):         https://github.com/Keelhauled      
@@ -162,6 +172,11 @@
 - Short description: Removes the mosaic from female characters.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# DisplayOfThumbnails
+- Short description: Adjusts/Enlarges the amount of thumbnails shown on screen in character maker at a given time in the form of a blue square on top of the screen.
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Drag&Drop
 - Short description: A plugin for games made by Illusion that allows you to drag cards, scenes and outfits to the game window to load them. 
@@ -207,6 +222,16 @@
 - Short description: Fixes shader drop down menu not opening correctly
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
+
+# FixationalEyeMovement
+- Short description: Adds a slight fluctuation and tweaks to the eyes of characters within H-Scenes to make it look more human/natural. 
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
+# Fix_StudioWindow
+- Short description: Enlarges the lists within studio to see more options at a time and minor tweaks and fixes for the screen.
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # FK and IK
 - Short description: Enables FK and IK at the same time. (Gives the option to do so in studio)
@@ -353,6 +378,11 @@
 - Author(s):         https://github.com/SNW-KK/KK_BreastPhysicsController
 - More information:  https://ux.getuploader.com/koi_util/index/date/desc/1
 
+# KK_Bulge
+- Short description: Adds crotch bulges to clothing for characters with a male genitalia. (Can be adjusted globally for characters)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://ux.getuploader.com/56e4_xXVv/ (Unknown will be updated as soon as notified)
@@ -372,6 +402,11 @@
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_GamepadSupport
+
+# KK_GirlsClothesChange
+- Short description: Adds the ability to change character clothing setting them (On/Off) via keybindings. (The defualt isn't selected you have to set it up in the F1 Plugins menu)
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_HCameraLight
 - Short description: This plugin allows you to change some light settings during H (Older variation of the plugin)
@@ -393,6 +428,16 @@
 - Author(s):         https://github.com/DeathWeasel1337/
 - More information:  https://www.patreon.com/posts/41607128
 
+# KK_LiveStageAudience
+- Short description: Adds the ability to change the amount of present audience members in the "Live Stage".
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
+# KK_Fix_MainParam
+- Short description: Allows one to change/edit the details and chara information of already placed characters within the main game story.
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # KK_LewdCrest
 - Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
 - Author(s):         http://uppervolta-3d.net/illu/upload.php (Unknown but will be changed as soon as notified)
@@ -412,6 +457,11 @@
 - Short description: KKManager is a Mod,Plugin,Card manager tool which is widely used for updating the sideloader modpack. (It does not update plugins but it can be used for other useful things for further info check the links bellow)
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KKManager
+
+# KK_MapFriendlyOutfits
+- Short description: Changes the characters outfit based on the map. I.E in the gym map within H-Scenes characters will change into P.E outfit.
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_MovUrAcc
 - Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
@@ -447,6 +497,11 @@
 - Short description: A quick access list for searching through all of the items, both stock and modded within character studio.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/QuickAccessBox
+
+# KK_QuickLoadOption
+- Short description: Disables confirmation screens for loading Clothing,Characters etc
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_SliderHighlight
 - Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
@@ -522,6 +577,11 @@
 - Short description: Allows you to override vanilla list files. Comes with some overrides that enable half off state for some vanilla pantyhose.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# LoadRandomMap
+- Short description: You can change the H-Scene map randomly within the map selection menu for H-Scenes defualt hotkey is (M) not compatible with VR.
+- Author(s): Sabakan (サバカン)        
+- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # LockOnPlugin
 - Short description: A camera helper plugin that lets you forget the annoying camera controls and keeps the action right where it needs to be.
