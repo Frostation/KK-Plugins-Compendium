@@ -55,13 +55,18 @@
 
 # Breastmilk
 - Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Camera Target Fix
 - Short description: Fixes the center in which characters would look at when designated.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
+
+# CameraFrameMask 
+- Short description: Hides certain aspects of the character during loading until it loads proper. (It is to hide the oddities during character loading.)
+- Author(s):         https://github.com/Keelhauled
+- More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Card Author Data
 - Short description: Ability to save a card with an author (Name of the maker) attached to it. (Note:Has been merged into Modding API plugin)
@@ -110,7 +115,7 @@
 
 # Chase Me
 - Short description: Makes a character follow the player throughout the school.
-- Author(s):         https://koikoi.happy.nu/#!plugin_chase_me.md
+- Author(s):         N/A
 - More information:  https://koikoi.happy.nu/#!plugin_chase_me.md
 
 # Cheat Tools
@@ -158,10 +163,15 @@
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2019/03/koikatu-coordinate-load-option.html
 
+# CopyColorToClipboard
+- Short description: Allows one to copy the RGB color code of a piece of clothing or item to use in texture editing software or the like.
+- Author(s):         N/A       
+- More information:  https://koikoi.happy.nu/#!plugin_copy_color_to_clipboard.md
+
 # CyuNoVR
 - Short description: Changes the normal kiss to a french kiss during H-Scenes. (Does not work with VR)
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # DefaultParamEditor
 - Short description: Allows editing default settings for character/scene parameters such as eye blinking or shadow density.
@@ -175,8 +185,8 @@
 
 # DisplayOfThumbnails
 - Short description: Adjusts/Enlarges the amount of thumbnails shown on screen in character maker at a given time in the form of a blue square on top of the screen.
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Drag&Drop
 - Short description: A plugin for games made by Illusion that allows you to drag cards, scenes and outfits to the game window to load them. 
@@ -225,13 +235,13 @@
 
 # FixationalEyeMovement
 - Short description: Adds a slight fluctuation and tweaks to the eyes of characters within H-Scenes to make it look more human/natural. 
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Fix_StudioWindow
 - Short description: Enlarges the lists within studio to see more options at a time and minor tweaks and fixes for the screen.
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # FK and IK
 - Short description: Enables FK and IK at the same time. (Gives the option to do so in studio)
@@ -257,6 +267,11 @@
 - Short description: Fixes applied to minimize corrpution to files.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
+
+# Game Dialog Helper
+- Short description: During school conversation with characters it highlights the correct choices/answers for their questions.
+- Author(s):         https://github.com/GeBo1
+- More information:  https://github.com/GeBo1/GeBoPlugins
 
 # GeBo Modding API (GeBoCommon)
 - Short description: Contains shared code used by other plugins in this repo. Unless otherwise noted latest version should continue to work with older versions of plugins.
@@ -393,6 +408,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_CumOnOver
 
+# KK_ExpressionControl
+- Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
 # KK_EyeControl
 - Short description: Adds some additional options in maker which allows one to control how much a characters eyes open or have them permanently closed.
 - Author(s):         https://github.com/DeathWeasel1337
@@ -405,8 +425,8 @@
 
 # KK_GirlsClothesChange
 - Short description: Adds the ability to change character clothing setting them (On/Off) via keybindings. (The defualt isn't selected you have to set it up in the F1 Plugins menu)
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_HCameraLight
 - Short description: This plugin allows you to change some light settings during H (Older variation of the plugin)
@@ -430,13 +450,13 @@
 
 # KK_LiveStageAudience
 - Short description: Adds the ability to change the amount of present audience members in the "Live Stage".
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_Fix_MainParam
 - Short description: Allows one to change/edit the details and chara information of already placed characters within the main game story.
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_LewdCrest
 - Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
@@ -460,13 +480,18 @@
 
 # KK_MapFriendlyOutfits
 - Short description: Changes the characters outfit based on the map. I.E in the gym map within H-Scenes characters will change into P.E outfit.
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_MovUrAcc
 - Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
 - Author(s):         https://github.com/Madevil
 - More information:  https://github.com/Madevil/KK_MovUrAcc
+
+# KK_MoveMapFromCharaList (Abandoned and Remade into WarpToCharacters plguin)
+- Short description: Lets you fast travel to wherever the characters are located on the school map.
+- Author(s):         N/A
+- More information:  N/A
 
 # KK_NightDarkener
 - Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
@@ -500,8 +525,8 @@
 
 # KK_QuickLoadOption
 - Short description: Disables confirmation screens for loading Clothing,Characters etc
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_SliderHighlight
 - Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
@@ -567,6 +592,11 @@
 - Short description: Mod that adds a new setting to male character maker - "Character is a trap". 
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionTrapMods
+
+# Koikatu Gameplay Mod
+- Short description: Adds quality of life changes to improve gameplay. (Such as some options within H scenes like keeping the body shown when touching, fast traveling around different parts of the map costing time etc)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # Light Manager
 - Short description: Make studio spotlights automatically track characters.
@@ -923,7 +953,7 @@
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Unlimited Map Lights
-- Short description: Allows using an unlimited amount of map lights in studio. Not all items support more than 3 lights.
+- Short description: Allows using an unlimited amount of map lights in studio. Items usually don't support more than 3 lights.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
@@ -938,7 +968,7 @@
 - More information:  https://www.patreon.com/joan6694
 
 # What are you saying?
-- Short description: Renders all text useless and turn them into giberrish. (Please do not install unless you intentionally want to do so for a joke.)
+- Short description: Renders/Makes all text useless and turns them into giberrish. (Please do not install unless you intentionally want to do so for a joke.)
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/09/koikatu-what-are-you-saying.html
 
