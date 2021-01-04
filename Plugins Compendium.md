@@ -418,6 +418,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
+# KK_Fix_TitleUI
+- Short description: All Main Menu Choices are displayed on the initial screen. (Warning may not work in acquintance with other plugins that serve as a shortcut to options.)
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # KK_GamepadSupport
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://github.com/ManlyMarco
@@ -502,6 +507,11 @@
 - Short description: Plugin that adds pregnancy gameplay to the main game with related maker customization options.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
+# KK_PregnancyPlus
+- Short description: Adds additional pregnancy options to Character Studio Only. (Works as an addon to KK_Pregnancy can work without it as well.)
+- Author(s):         hhttps://github.com/thojmr
+- More information:  https://github.com/thojmr/KK_PregnancyPlus/
 
 # KK_Orthographic Camera
 - Short description: Adds a parrelel projection of the camera like the ones from Diablo 2/Fallout 2 to the game it can be used in main game/studio/maker the shortcut key is "I" (Can be changed in plugins settings)
