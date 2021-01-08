@@ -368,6 +368,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://www.patreon.com/posts/44708282
 
+# KK_AutoStart
+- Short description: Adds a plugin which will automatically start up a mode when you launch the game or command arguments such as shortcuts for it (Autostart transition to a specific mode can be cancelled by pressing ESC on keyboard during loading or disabling/changing parameters in the plugins menu)
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/Startup-Plugins
+
 # KK_AccStateSync
 - Short description: Plugin which gives on the option to have accessories on or off during different clothing states (On/Half-on/Off)
 - Author(s):         https://github.com/Madevil/
@@ -452,6 +457,11 @@
 - Short description: Adds the ability to hide items from character maker by right clicking (Also checking which modded items are for what zipmod) [Note:Check the requirements of the plugin for proper installation.]
 - Author(s):         https://github.com/DeathWeasel1337/
 - More information:  https://www.patreon.com/posts/41607128
+
+# KK_IntroBegone
+- Short description: Skips the intro logos/screens and speeds up the process of getting into the main menu of the game (Can be disabled in the plugins menu)
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/Startup-Plugins
 
 # KK_LiveStageAudience
 - Short description: Adds the ability to change the amount of present audience members in the "Live Stage".
@@ -552,6 +562,11 @@
 - Short description: Plugin that tweaks the way the camera tool in the workspace works whenever spawning a new one, instead of it being spawned in a origin to be tweaked thoroughly to get the right angle it'll spawn with the angle that ones camera has in studio instead.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
+# KK_StudioExtraMoveAxis
+- Short description: Adds an Extra Axis to the bottom right of character studio for easy adjustment when selecting character/items it can also be disabled via the buttons on the left side of the screen.
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/StudioExtraMoveAxis
 
 # KK_StudioCharaSort
 - Short description: It lets one specify a default sorting for character and coordinate lists in Studio.
@@ -942,7 +957,7 @@
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
-# Title Shortcuts
+# Title Shortcuts (Old version. Has been remade into KK_AutoStart)
 - Short description: Title menu keyboard shortcuts to open different modes. (For example, press F to open the female editor.)
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
