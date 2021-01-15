@@ -635,8 +635,8 @@
 
 # LoadRandomMap
 - Short description: You can change the H-Scene map randomly within the map selection menu for H-Scenes defualt hotkey is (M) not compatible with VR.
-- Author(s): Sabakan (サバカン)        
-- More information: Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # LockOnPlugin
 - Short description: A camera helper plugin that lets you forget the annoying camera controls and keeps the action right where it needs to be.
@@ -841,6 +841,11 @@
 - Short description: Plugin that allows adding overlay textures (tattoos) to character's face, body and clothes in games made by Illusion.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion-Overlay-Mods
+
+# SlapMod
+- Short description: This Plugins Changes the option of grabbing the butt to tapping it (Like how it's done to various parts of the body) sort of like a slap effect.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Slider Unlocker
 - Short description: Allows user to set values outside of the standard 0-100 range on all sliders in the editor.
