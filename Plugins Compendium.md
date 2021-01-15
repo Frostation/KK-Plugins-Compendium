@@ -53,6 +53,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
+# Boop
+- Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce
+- Author(s):         N/A
+- More information:  https://github.com/IllusionMods/BepisPlugins
+
 # Breastmilk
 - Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
 - Author(s):         Sabakan (サバカン)        
@@ -405,13 +410,28 @@
 
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
-- Author(s):         https://ux.getuploader.com/56e4_xXVv/ (Unknown will be updated as soon as notified)
+- Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/download/94
 
 # KK_CumOnOver
 - Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_CumOnOver
+
+# KK_DarknessWithStrawberryFlavor
+- Short description: Will enabled Darkness Mode support for unsupported characters. (Normal H Sounds will be played during the mode since there are no special Dialogue for unsupported personalities)
+- Author(s):         N/A
+- More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
+
+# KK_EroPower
+- Short description: Sets Limit to how many times once can do H within a scene before it forces one out of it. (Can be changed via plugins menu)
+- Author(s):         N/A
+- More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
+
+# KK_EroStatus
+- Short description: Allows one to set the Erotic Experience/Virginity of characters within the Maker.
+- Author(s):         N/A
+- More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_ExpressionControl
 - Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
@@ -437,6 +457,11 @@
 - Short description: Adds the ability to change character clothing setting them (On/Off) via keybindings. (The defualt isn't selected you have to set it up in the F1 Plugins menu)
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
+# KK_GirlsState
+- Short description: Adds the ability to show the three Sizes when making characters within the game. (Measurement can be changed via the F1 Plugins Menu for GirlState)
+- Author(s):         N/A       
+- More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_HCameraLight
 - Short description: This plugin allows you to change some light settings during H (Older variation of the plugin)
@@ -512,6 +537,11 @@
 - Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
+# KK_PantyRobber
+- Short description: During School Conversation there will be a button prompt to steal the girls panty. 
+- Author(s):         N/A       
+- More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_Pregnancy
 - Short description: Plugin that adds pregnancy gameplay to the main game with related maker customization options.
