@@ -56,7 +56,7 @@
 # Boop
 - Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce
 - Author(s):         N/A
-- More information:  https://github.com/IllusionMods/BepisPlugins
+- More information:  N/A Can be acquired through specific plugin packs or the betterrepack or here https://www.dropbox.com/s/3k60nptv7aiqhli/Boop.dll
 
 # Breastmilk
 - Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
