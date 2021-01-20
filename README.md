@@ -22,4 +22,6 @@
 
  - Note while some of these plugins have an alternative version made for other illusion games, most of these plugins were made/converted for Koikatsu Only.
 
+ - There is a new category added which will be tidied up in future versions which will move all obsolete/old/IPA plugins and the like there which are not reccomended for installation at all.
+
 - This archive is currently a WIP and future changes will happen to it, so please be patient with us and thank you for your time.
