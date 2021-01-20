@@ -1,5 +1,6 @@
 ## Main List of Plugins:
 
+
 # Add mob characters to roam mode
 - Short description: Adds uninteractable colored NPCs to the game to make it more lively.
 - Author(s):         https://github.com/ManlyMarco
@@ -1049,7 +1050,9 @@
 - Author(s):         https://github.com/bbepis/XUnity.AutoTranslator
 - More information:  https://github.com/bbepis/XUnity.AutoTranslator
 
+
 ## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
+
 
 # KK_AddOpenMapIcon
 - Short description: Adds an icon to the game to use to open the map feature.
