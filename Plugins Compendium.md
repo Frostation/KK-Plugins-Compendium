@@ -1,3 +1,5 @@
+## Main List of Plugins:
+
 # Add mob characters to roam mode
 - Short description: Adds uninteractable colored NPCs to the game to make it more lively.
 - Author(s):         https://github.com/ManlyMarco
@@ -55,8 +57,8 @@
 
 # Boop
 - Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce
-- Author(s):         N/A
-- More information:  N/A Can be acquired through specific plugin packs or the betterrepack or here https://www.dropbox.com/s/3k60nptv7aiqhli/Boop.dll
+- Author(s):         Essu
+- More information:  Can be acquired through specific plugin packs or here https://www.dropbox.com/s/3k60nptv7aiqhli/Boop.dll
 
 # Breastmilk
 - Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
@@ -882,6 +884,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
+# Specter (Warning:Probably incompatible with new versions of Bepinex.)
+- Short description: Adds a bunch of post processing effect options among other studio related tools for chara studio. 
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/moistened_eye/download/131
+
 # Stiletto
 - Short description: Adds the option to adjust the ankle angles to fix high-heel/heeled shoes R-shift brings up the menu.
 - Author(s):         Unknown will be changed as soon as i am notified.
@@ -1041,3 +1048,65 @@
 - Short description: Modding API for overriding resources.
 - Author(s):         https://github.com/bbepis/XUnity.AutoTranslator
 - More information:  https://github.com/bbepis/XUnity.AutoTranslator
+
+## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
+
+# KK_AddOpenMapIcon
+- Short description: Adds an icon to the game to use to open the map feature.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_Crawl
+- Short description: To be able to move while crouched/crawling
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_DisableKinematicsOnChangeAnime
+- Short description: Disable FK and/or IK for characters when switching animation.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_EyeTexOverlay
+- Short description: A plugin which allows to overlay eye textures with .PNG files
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_FacePtnReplacer
+- Short description: A plugin which allows to adjust facial features to an extent within/during a scene
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_GuageSliders
+- Short description: Allows one to edit the various gauges within game Presumebly H and Main game with the mouse.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_HCtrl
+- Short description: Controlls H speed&motion automatically to make it seem somewhat natural.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_HeadUtl (Obsoleted by PovX,RealPoV)
+- Short description: An Old POV plugin which activates with "0" on the keyboard 
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_Kiyase (Obsoleted by Pushup)
+- Short description: An plugin which makes the breasts more slim within clothing and otherwise. 
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_MoveMapFromCharaList (Obsolted by WarpToCharacters)
+- Short description: Allows for teleportation to a character within the schoolmap in the maing game.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_NeckRotationLimitEdit
+- Short description: Limits the amount that the neck can rotate in any given direction so that it would seem natural.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_PerfectPlan
+- Short description: Disables Interactions with variout points of the game, like turning one into a pseudo ghost.
+- Author(s):         N/A
+- More information:  https://ux.getuploader.com/56e4_xXVv/
