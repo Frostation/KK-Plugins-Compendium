@@ -437,7 +437,7 @@
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_ExpressionControl
-- Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
+- Short description: Allows for additional changes/adjustments to facial expression within game. 
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/
 
