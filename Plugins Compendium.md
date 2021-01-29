@@ -391,6 +391,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://www.patreon.com/posts/accessoryclothes-43222792
 
+# KK_AccessoryQuickRemove
+- Short description: This plugin makes it so that you can remove accessories from the tab much faster by just selecting the accessory and pressing the Delete key on your keyboard.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://www.patreon.com/posts/46832511
+
 # KK_Ahegao
 - Short description: Allows adjustment of the ahegao face expression. (How long until it is activated during H)
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
@@ -1053,6 +1058,10 @@
 
 ## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
 
+# KK_Archetypes (Does not work well with the latest version of bepinex)
+- Short description: Makes it so that you can favorite different parts of the body and recombine them into new characters.
+- Author(s):         https://github.com/cptgrey
+- More information:  https://github.com/cptgrey/KK_Archetypes
 
 # KK_AddOpenMapIcon
 - Short description: Adds an icon to the game to use to open the map feature.
