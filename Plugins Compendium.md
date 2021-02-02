@@ -526,6 +526,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KKManager
 
+# KK_MaleMoan
+- Short description: Adds moan voicelines for male characters in game during H-Scenes. (The file has a readme, please make sure to read it carefully for some configuration)
+- Author(s):         http://uppervolta-3d.net/illu/upload.php 
+- More information:  http://uppervolta-3d.net/illu/upload.php
+
 # KK_MapFriendlyOutfits
 - Short description: Changes the characters outfit based on the map. I.E in the gym map within H-Scenes characters will change into P.E outfit.
 - Author(s):         Sabakan (サバカン)        
@@ -615,6 +620,11 @@
 - Short description: This plugin allows you to have first person view in Studio.
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioPOV
+
+# KK_SubCamera
+- Short description: Adds an additional camera frame to the game (H-Scenes/Studio, the button being "," to activate) in realtime in which one can use for a multitude of things.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_SFW
 - Short description: Disables some content that could be considered NSFW/+18 so that one can use KK in a SFW environment. (Can be disabled via the Illusion Luancher for KK)
