@@ -446,6 +446,11 @@
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/
 
+# KK_EyeCatch
+- Short description: Adds possible loading screen pictures for when you launch a specific mode within the game I.E Chara Maker/Main Game etc (Needs to be put into BepInEx/plugins/EyeCatch and for picture they also need to be added to the EyeCatch Folder to function)
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # KK_EyeControl
 - Short description: Adds some additional options in maker which allows one to control how much a characters eyes open or have them permanently closed.
 - Author(s):         https://github.com/DeathWeasel1337
@@ -1064,6 +1069,11 @@
 - Short description: Modding API for overriding resources.
 - Author(s):         https://github.com/bbepis/XUnity.AutoTranslator
 - More information:  https://github.com/bbepis/XUnity.AutoTranslator
+
+# Xray-Mod
+- Short description: This mod adds several models within the crotch area of the body so that it can act as an X-Ray vission into the womb. (Read the Readme for full details regarding this plugin)
+- Author(s):         N/A GFAnon
+- More information:  N/A Can be searched witihn the Koikatsu Discord Server.
 
 
 ## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
