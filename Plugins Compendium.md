@@ -176,6 +176,11 @@
 - Author(s):         N/A       
 - More information:  https://koikoi.happy.nu/#!plugin_copy_color_to_clipboard.md
 
+# Cosplay Academy (Might break things until further version always check out the notes and updates)
+- Short description: Allows for randomization of outfits for characters (Studens) during story mode of Koikatsu.
+- Author(s):         https://github.com/jalil49 
+- More information:  https://github.com/jalil49/Cosplay-Academy
+
 # CyuNoVR
 - Short description: Changes the normal kiss to a french kiss during H-Scenes. (Does not work with VR)
 - Author(s):         Sabakan (サバカン)        
