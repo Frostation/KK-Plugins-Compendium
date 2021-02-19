@@ -516,10 +516,10 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
-# KK_LewdCrest
-- Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
-- Author(s):         http://uppervolta-3d.net/illu/upload.php (Unknown but will be changed as soon as notified)
-- More information:  http://uppervolta-3d.net/illu/upload.php
+# KK_LewdCrestX
+- Short description: Adds an option to add crests to characters bodies out of 32 available which some have in game properties and some are just for flavor.
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_MakerAdditions
 - Short description: This plugin adds extra features to the character maker. (Adjusting accessories beyond the 100 -100 limit and further movement 0.01 position, 0.1 angle)
@@ -1132,6 +1132,11 @@
 - Short description: An plugin which makes the breasts more slim within clothing and otherwise. 
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_LewdCrest (Obsoleted by Newer version KK_LewdCrestX)
+- Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
+- Author(s):         picolet21
+- More information:  http://uppervolta-3d.net/illu/upload.php
 
 # KK_MoveMapFromCharaList (Obsolted by WarpToCharacters)
 - Short description: Allows for teleportation to a character within the schoolmap in the maing game.
