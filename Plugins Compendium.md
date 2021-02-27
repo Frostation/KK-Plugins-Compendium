@@ -511,6 +511,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/Startup-Plugins
 
+# KK_Jetpack
+- Short description: API plugin base for future plugins such as KKAPI or GeboAPI
+- Author(s):         https://github.com/Madevil
+- More information:  N/A (Will be added soon)
+
 # KK_LiveStageAudience
 - Short description: Adds the ability to change the amount of present audience members in the "Live Stage".
 - Author(s):         Sabakan (サバカン)        
