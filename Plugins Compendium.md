@@ -436,6 +436,11 @@
 - Author(s):         N/A
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
+# KK_DynamicBoneEditor
+- Short description: Allows the functionality of adjusting dynamic bone weight for various accessories via material editor in character maker (Mostly for fitting hair among other things)
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
 # KK_EroPower
 - Short description: Sets Limit to how many times once can do H within a scene before it forces one out of it. (Can be changed via plugins menu)
 - Author(s):         N/A
