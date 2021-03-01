@@ -197,7 +197,7 @@
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # DisplayOfThumbnails
-- Short description: Adjusts/Enlarges the amount of thumbnails shown on screen in character maker at a given time in the form of a blue square on top of the screen.
+- Short description: Adjusts/Enlarges the amount of thumbnails shown on screen in character maker at a given time in the form of a button on top of the screen.
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
@@ -490,6 +490,11 @@
 - Short description: This plugin allows you to change some light settings during H (Older variation of the plugin)
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/KK_HCameraLight
+
+# KK_HideOption
+- Short description: Hides the SideBar Menu within character maker via press of a button (Button in the middle top of the screen)
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_HLightControl
 - Short description: This plugin allows you to change some light settings during H
