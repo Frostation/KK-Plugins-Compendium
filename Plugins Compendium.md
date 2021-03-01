@@ -59,7 +59,7 @@
 # Boop
 - Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce
 - Author(s):         Essu
-- More information:  Can be acquired through specific plugin packs or here https://www.dropbox.com/s/3k60nptv7aiqhli/Boop.dll
+- More information:  Can be acquired through specific plugin packs or here https://www.dropbox.com/s/vyiwger8gc8xi9w/Boop.dll
 
 # Breastmilk
 - Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
