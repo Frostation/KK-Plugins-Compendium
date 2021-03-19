@@ -191,6 +191,11 @@
 - Author(s):         https://github.com/Keelhauled      
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
+# Darker Darkness (Only works on the darkness DLC)
+- Short description: The main purpose of this plugin is to switch the janitor and main player character during darkness mode.
+- Author(s):         Eternity    
+- More information:  N/A (Plugin can be acquired through the Koikatsu Discord Server)
+
 # Demosaic
 - Short description: Removes the mosaic from female characters.
 - Author(s):         https://github.com/DeathWeasel1337
@@ -401,10 +406,15 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://www.patreon.com/posts/46832511
 
+# KK_ActionSubMenuScroll
+- Short description: Adds the abillity to scroll through the H-List options in H mode (Keyboard arrow keys can also be used as well)
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # KK_Ahegao
 - Short description: Allows adjustment of the ahegao face expression. (How long until it is activated during H)
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
-- More information:  N/A (Mod can be acquired via either the HF-Patch or acquiring it within the Illusion/Koikatsu Discord Servers)
+- More information:  N/A (Plugin can be acquired via either the HF-Patch or acquiring it within the Illusion/Koikatsu Discord Servers)
 
 # KK_AdvIKPlugin
 - Short description: Allows one to adjust shoulder rotation and make more smoother and more natrual poses when using IK within character studio.
@@ -615,6 +625,11 @@
 - Short description: Disables confirmation screens for loading Clothing,Characters etc
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
+# KK_SexFaces
+- Short description: A plugin in which you can set/register specific faces expressions for your character during H-Scenes within character maker by using the expression tools on the right side bar of the screen and registering them within the tool.
+- Author(s):         https://github.com/Sauceke
+- More information:  https://github.com/Sauceke/KK_SexFaces
 
 # KK_SliderHighlight
 - Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
