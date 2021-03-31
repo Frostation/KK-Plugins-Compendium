@@ -16,6 +16,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
+# AnimationLoader
+- Short description: Allows for the game to have Additional Animations Specifically H-Mode (Animations are accessed via zipmods download them with KK manager)
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/AnimationLoader
+
 # Animation Overdrive
 - Short description: Allows you to adjust the animation speed beyond the normal cap of 3.
 - Author(s):         https://github.com/DeathWeasel1337
