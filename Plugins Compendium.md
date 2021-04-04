@@ -436,6 +436,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
+# KK_BonerStateSync
+- Short description: Can Make Body adjustment and sizes dependant on the characters clothing state for custom body sizes. (Tab is added to the bottom right)
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/BonerStateSync
+
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         N/A
