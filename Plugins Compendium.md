@@ -141,6 +141,11 @@
 - Author(s):         https://github.com/ManlyMarco/
 - More information:  https://github.com/ManlyMarco/Illusion-Overlay-Mods
 
+# Clothing State Menu
+- Short description: Enables you to adjust clothing state of characters (Changing States of clothing/accessories to half off or removing) (The difference with the X version is in the fact that it can be used in various game scenarios I.E mid conversation)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/Illusion_ClothingStateMenu
+
 # Clothing State Menu X
 - Short description: Enables you to adjust clothing state of characters (Changing States of clothing/accessories to half off or removing) (Difference with previous version is that it is an integrated version into the UI)
 - Author(s):         https://github.com/Keelhauled
@@ -646,6 +651,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IL_SliderHighlight
 
+# KK_SMAP
+- Short description: A plugin in which can be used to simulate more accessory Parents out of a list of existing bones for the base Koi body.
+- Author(s):         https://github.com/Madevil
+- More information:  https://github.com/Madevil/KK_SMAP
+
 # KK_StudioAccessoryNames
 - Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
 - Author(s):         https://github.com/Mantas-2155X
@@ -1122,11 +1132,6 @@
 
 
 ## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
-
-# Clothing State Menu
-- Short description: Enables you to adjust clothing state of characters (Changing States of clothing/accessories to half off or removing)
-- Author(s):         https://github.com/ManlyMarco
-- More information:  https://github.com/ManlyMarco/Illusion_ClothingStateMenu
 
 # KK_Archetypes (Does not work well with the latest version of bepinex)
 - Short description: Makes it so that you can favorite different parts of the body and recombine them into new characters.
