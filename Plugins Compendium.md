@@ -11,6 +11,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_SkinEffects
 
+# ADV_Editor
+- Short description: A custom tool for creating custom scenarios and scenes in some illusion games (Not meants for average users)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/ADV_Editor
+
 # Animation Controller
 - Short description: Allows attaching IK nodes to objects to create custom animations. 
 - Author(s):         https://github.com/DeathWeasel1337
@@ -305,6 +310,11 @@
 - Short description: Contains shared code used by other plugins in this repo. Unless otherwise noted latest version should continue to work with older versions of plugins.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://github.com/GeBo1/GeBoPlugins
+
+# GetTapped
+- Short description: Adds touchscreen support for users within H-Scene for camera and options.
+- Author(s):         https://github.com/lynzrand
+- More information:  https://github.com/lynzrand/gettapped
 
 # Graphics Settings
 - Short description: Exposes unity's graphics settings and some other values for editing in ConfigurationManager.
@@ -930,6 +940,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
+# Scene State Save (SSS)
+- Short description: Allows one to save multiple character states within one scene data (It expands the options for different scenario character stats goes with VNGE)
+- Author(s):         Keitaro
+- More information:  https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ
+
 # Settings Fix
 - Short description: Prevents corrupted setting from causing issues and forces studio to use the settings.xml file instead of registry.
 - Author(s):         https://github.com/IllusionMods
@@ -1075,6 +1090,16 @@
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
+# TimelineVMDSync
+- Short description: A tool to assist timeline users and animators alike for streamlining the process of some cameras and motions via using VMD/Timeline interchangebly to make a combination of animations.
+- Author(s):         N. Jächa
+- More information:  N/A (Search the Mod-Sharing Channel for the koikatsu discord server)
+
+# Timeline tracking Play/Pause Button 1.2
+- Short description: Adds a Play/Pause button for Timeline on the bottom right corner for Character Studio (In response to Alt+T overlapping button inputs for timeline)
+- Author(s):         Keitaro
+- More information:  N/A (Search the Mod-Sharing Channel for the koikatsu discord server)
+
 # Title Shortcuts (Old version. Has been remade into KK_AutoStart)
 - Short description: Title menu keyboard shortcuts to open different modes. (For example, press F to open the female editor.)
 - Author(s):         https://github.com/Keelhauled
@@ -1109,6 +1134,11 @@
 - Short description: Video and image sequence recorder with which one can make a multitude of things from videos/gifs/webms... etc.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
+
+# VNGE (VN Game Engine)
+- Short description: An expansive tool which allows to make custom VN like/Game like scenarios within Koikatsu (Check the mega link for more info and tutorials)
+- Author(s):         Keitaro
+- More information:  https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ
 
 # What are you saying?
 - Short description: Renders/Makes all text useless and turns them into giberrish. (Please do not install unless you intentionally want to do so for a joke.)
