@@ -441,6 +441,11 @@
 - Author(s):         https://github.com/OrangeSpork/
 - More information:  https://github.com/OrangeSpork/AdvIKPlugin
 
+# KK_Better Penetration 
+- Short description: Changes/Adjusts the penetrations animation and what not for the game this pack includes 4 uncensors with their own extra bones to work with this (2 males, 2 females) check link for more detail.
+- Author(s):         https://github.com/Animal42069
+- More information:  https://github.com/Animal42069/BetterPenetration/
+
 # KK_BreastPhysicsController
 - Short description: Adds the option for one to customize the breast physics per outfit/per outfit state. (If you get error spams it's due to missing config file read the readme/manual)
 - Author(s):         https://github.com/SNW-KK/KK_BreastPhysicsController
@@ -470,6 +475,11 @@
 - Short description: Will enabled Darkness Mode support for unsupported characters. (Normal H Sounds will be played during the mode since there are no special Dialogue for unsupported personalities)
 - Author(s):         N/A
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
+
+# KK_DiscordRPC
+- Short description: Enables customization for the discord status whenever playing/using koikatsu from different states/character edit names etc it adds a bunch of customization options for what you're doing to other on display.
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  https://github.com/NiggoJaecha/kk-discord-rpc
 
 # KK_DynamicBoneEditor
 - Short description: Allows the functionality of adjusting dynamic bone weight for various accessories via material editor in character maker (Mostly for fitting hair among other things)
