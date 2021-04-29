@@ -229,7 +229,7 @@
 # Dress for Success
 - Short description: Player character changes outfit based on the type of invite they recieve/give.
 - Author(s):         https://github.com/GeBo1
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/GameDressForSuccess/
 
 # Enable REsize
 - Short description: Enables window resizing.
@@ -304,7 +304,7 @@
 # Game Dialog Helper
 - Short description: During school conversation with characters it highlights the correct choices/answers for their questions.
 - Author(s):         https://github.com/GeBo1
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/GameDialogHelper/
 
 # GeBo Modding API (GeBoCommon)
 - Short description: Contains shared code used by other plugins in this repo. Unless otherwise noted latest version should continue to work with older versions of plugins.
@@ -696,6 +696,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/Port_StudioCharaSort
 
+# KK_StudioMultiSelectChara
+- Short description: Adds a button hotkey to studio to select multiple instances of a character with a press of the button.
+- Author(s):         https://gebo1.github.io/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/StudioMultiselectChara/
+
 # KK_StudioPOV
 - Short description: This plugin allows you to have first person view in Studio.
 - Author(s):         https://github.com/Mantas-2155X
@@ -1063,7 +1068,7 @@
 # Studio Scene Navigation
 - Short description: Provides hotkeys for loading the next/previous scene from the scenes folder.
 - Author(s):         https://github.com/GeBo1
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/StudioSceneNavigation/
 
 # Studio Simple Color On Girls
 - Short description: Enables women to support the monochrome function.
@@ -1118,12 +1123,12 @@
 # Translation Cache Cleaner
 - Short description: Removes all entries from your translation cache file that would be translated by existing translations.
 - Author(s):         https://github.com/GeBo1
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/
 
 # Translation Helper
 - Short description: Improves the experience of using XUnity.AutoTranslator in numerous ways.
 - Author(s):         https://github.com/GeBo1
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/
 
 # Uncensor Selector
 - Short description: Allows you to specify which uncensors individual characters use and removes the mosaic censor.
