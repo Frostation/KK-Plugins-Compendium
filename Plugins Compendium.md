@@ -726,6 +726,11 @@
 - Author(s):         A japanenese programmer (Not much detail is known)
 - More information:  Can be acquired via Either the HF-Patch, the Koikatsu discord server or the pastebin https://pastebin.com/SzSz1yZt (Older version)
 
+# KK_VRHeadSizeAdjust
+- Short description: Adds a new slider to character maker to adjust the head size for VR users since they would look a bit wonky.
+- Author(s):         https://github.com/KoikDaisy
+- More information:  https://github.com/KoikDaisy/KK_VRHeadSizeAdjust
+
 # KK_WarpToCharacters
 - Short description: This plugin adds a "warp to this character" button to the character roster in roaming mode. (Meaning it allows one to quickly teleport to a character/event)
 - Author(s):         https://github.com/ManlyMarco
