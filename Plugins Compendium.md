@@ -606,6 +606,8 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
+# KK_MapScreenDeclutter 
+
 # KK_MovUrAcc
 - Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
 - Author(s):         https://github.com/Madevil
@@ -640,6 +642,11 @@
 - Short description: Adds a parrelel projection of the camera like the ones from Diablo 2/Fallout 2 to the game it can be used in main game/studio/maker the shortcut key is "I" (Can be changed in plugins settings)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
+# KK_PostProcessingEffects
+- Short description: Removes vanilla maps from the selection menu for H-Scenes within the game for both VR/Desktop, also adds a defualt "unknown" icon.
+- Author(s):         https://github.com/KoikDaisy
+- More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/releases
 
 # KK_PovX
 - Short description: Adds a PoV function to Koikatsu (Older Variant)
