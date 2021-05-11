@@ -476,6 +476,11 @@
 - Author(s):         N/A
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
+# KK_DateChecker
+- Short description: Adds a date checker to main game to see if there is an appointment (Date) when the character data is loaded within the game from the Main Characters room.
+- Author(s):         Sabakan (サバカン)        
+- More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
 # KK_DiscordRPC
 - Short description: Enables customization for the discord status whenever playing/using koikatsu from different states/character edit names etc it adds a bunch of customization options for what you're doing to other on display.
 - Author(s):         https://github.com/NiggoJaecha
@@ -510,6 +515,11 @@
 - Short description: Adds some additional options in maker which allows one to control how much a characters eyes open or have them permanently closed.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# KK_FixationalEyeMovementVR
+- Short description: Adds Sabakans Fixatational eye movement to VR as well. (Small movements in the eye)
+- Author(s):         https://github.com/KoikDaisy
+- More information:  https://github.com/KoikDaisy/KK_FixationalEyeMovementVR
 
 # KK_Fix_TitleUI
 - Short description: All Main Menu Choices are displayed on the initial screen. (Warning may not work in acquintance with other plugins that serve as a shortcut to options.)
@@ -646,7 +656,7 @@
 # KK_PostProcessingEffects
 - Short description: Removes vanilla maps from the selection menu for H-Scenes within the game for both VR/Desktop, also adds a defualt "unknown" icon.
 - Author(s):         https://github.com/KoikDaisy
-- More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/releases
+- More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/
 
 # KK_PovX
 - Short description: Adds a PoV function to Koikatsu (Older Variant)
