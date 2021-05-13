@@ -617,21 +617,24 @@
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_MapScreenDeclutter 
+- Short description: Removes vanilla maps from the selection menu for H-Scenes within the game for both VR/Desktop, also adds a defualt "unknown" icon.
+- Author(s):         https://github.com/KoikDaisy
+- More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/
 
 # KK_MovUrAcc
 - Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
 - Author(s):         https://github.com/Madevil
 - More information:  https://github.com/Madevil/KK_MovUrAcc
 
-# KK_MoveMapFromCharaList (Abandoned and Remade into WarpToCharacters plguin)
-- Short description: Lets you fast travel to wherever the characters are located on the school map.
-- Author(s):         N/A
-- More information:  N/A
-
 # KK_NightDarkener
 - Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
+# KK_PantyFairy
+- Short description: Adds a custom scenario to the main game akin with quests
+- Author(s):         https://github.com/ManlyMarco    
+- More information:  https://www.patreon.com/posts/kk-pantyfairy-v1-50367938
 
 # KK_PantyRobber
 - Short description: During School Conversation there will be a button prompt to steal the girls panty. 
@@ -654,9 +657,9 @@
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_PostProcessingEffects
-- Short description: Removes vanilla maps from the selection menu for H-Scenes within the game for both VR/Desktop, also adds a defualt "unknown" icon.
-- Author(s):         https://github.com/KoikDaisy
-- More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/
+- Short description: Adds additional post processing options in the F1 Plugins menu (Warning there is known to be some texture Issues with this)
+- Author(s):         N/A (Check Poster and Creator via Link)
+- More information:  https://twitter.com/nHaruka_KK/status/1390650469458927616
 
 # KK_PovX
 - Short description: Adds a PoV function to Koikatsu (Older Variant)
@@ -1204,6 +1207,11 @@
 - Short description: Makes it so that you can favorite different parts of the body and recombine them into new characters.
 - Author(s):         https://github.com/cptgrey
 - More information:  https://github.com/cptgrey/KK_Archetypes
+
+# KK_MoveMapFromCharaList (Abandoned and Remade into WarpToCharacters plguin)
+- Short description: Lets you fast travel to wherever the characters are located on the school map.
+- Author(s):         N/A
+- More information:  N/A
 
 # KK_AddOpenMapIcon
 - Short description: Adds an icon to the game to use to open the map feature.
