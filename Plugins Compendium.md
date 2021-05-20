@@ -826,7 +826,18 @@
 - Author(s):         Plugin is made by Essu.
 - More information:  N/A It has to be searched within the koikatsu discord server.
 
+# MakerTools
+- Short description: Encompasses 5 plugins designed for character maker which will be explained a bit here bellow.
+  - Accessory_Shortcuts: Which adds keyboards shortcuts to manipulate and copy accessories from one slot to another or to select the previous used menu faster
+  - Accessory_Parents: Adds the function of parenting accessories to other accesories the same as one would use it in Character Studio which opens up option for many customization oppurtunities 
+  - Accessory_Themes: Allows for manipulation of multiple accessories colors at the same time with some options to deviate and customize more such as saturation and hue as well.
+  - Accessory_States: Has relatively the Same function as Accessory State Sync to allow for multiple accessories to be present and toggleable within an outfit.
+  - Additional_Card_Info: This is a function plugin to allow character cards to hold more data and for more options to be saved within which would have not been possible before 
+- Author(s):         https://github.com/jalil49
+- More information:  https://github.com/jalil49/Maker_Tools
+
 # Male Juice
+
 - Short description: Enables juice textures for males in H scenes and Studio.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
