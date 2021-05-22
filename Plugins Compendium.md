@@ -922,6 +922,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
+# Pose Unlocker
+- Short description: Lifts the restriction of not being able to pose males poses on females or vice versa in character studio.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
 # Pose Quick Load
 - Short description: A plugin that lets you load saved poses in Studio just by clicking on the pose. 
 - Author(s):         https://github.com/DeathWeasel1337
