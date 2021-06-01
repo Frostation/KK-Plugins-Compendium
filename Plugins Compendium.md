@@ -771,8 +771,9 @@
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
-# KKUSS
+# KKUSS (Shader Changer)
 - Short description: This is a plugin/shader addon which adds a shortcut button (Have to assign it within F1>PLusing Settings) to change the base shaders to the Unity Standard shader (For Lighting Purposes).
+  - not to be mistaken with KKUS they are different for different purposes.
 - Author(s):         https://ux.getuploader.com/nHaruka_KK/
 - More information:  https://ux.getuploader.com/nHaruka_KK/
 
