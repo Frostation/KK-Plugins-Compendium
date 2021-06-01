@@ -771,6 +771,11 @@
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
+# KKUSS
+- Short description: This is a plugin/shader addon which adds a shortcut button (Have to assign it within F1>PLusing Settings) to change the base shaders to the Unity Standard shader (For Lighting Purposes).
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
 # Koikatsu:Become Trap
 - Short description: Mod that adds a new setting to male character maker - "Character is a trap". 
 - Author(s):         https://github.com/ManlyMarco
