@@ -231,7 +231,7 @@
 - Author(s):         https://github.com/GeBo1
 - More information:  https://gebo1.github.io/GeBoPlugins/src/GameDressForSuccess/
 
-# Enable REsize
+# Enable Resize (Enable Full ScreenToggle)
 - Short description: Enables window resizing.
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
@@ -606,6 +606,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KKManager
 
+# KK_MakerDefaults 
+- Short description: Allows one to set the settings for character maker pre-emptively in F1>Plugins Menu for things such as blinking being enabled or not.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
 # KK_MaleMoan
 - Short description: Adds moan voicelines for male characters in game during H-Scenes. (The file has a readme, please make sure to read it carefully for some configuration)
 - Author(s):         http://uppervolta-3d.net/illu/upload.php 
@@ -862,7 +867,7 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/ModBoneImplantor
 
-# Modding API
+# Modding API (KKAPI)
 - Short description: This is an API designed to make writing plugins for recent UnityEngine games made by the company Illusion easier and less bug-prone. 
 - Author(s):         https://github.com/IllusionMods      
 - More information:  https://github.com/IllusionMods/IllusionModdingAPI
@@ -891,6 +896,11 @@
 - Short description: Fixes for some questionably made mods causing issues.
 - Author(s):         https://github.com/IllusionMods 
 - More information:  https://github.com/IllusionMods/IllusionFixes
+
+# Optimize IMGUI GC allocations
+- Short description: Reduces unecessary GC (Garbage Collection) allocation I.E memory data basically and it helps with optimization.
+- Author(s):         https://github.com/BepInEx
+- More information:  https://github.com/BepInEx/BepInEx.Utility
 
 # Party Card Compatibility 
 - Short description: Allows loading of cards saved in Koikatsu Party (Steam release) in Koikatu and Studio. 
@@ -972,7 +982,7 @@
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Rim Remover
-- Short description: Plugin for Koikatsu and EmotionCreators that removes rim lighting from characters.
+- Short description: Plugin for Koikatsu, EmotionCreators, Koikatsu Sunshine that removes rim lighting from characters/items.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/RimRemover
 
