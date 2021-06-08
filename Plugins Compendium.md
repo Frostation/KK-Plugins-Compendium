@@ -771,12 +771,6 @@
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
-# KKUSS (Shader Changer)
-- Short description: This is a plugin/shader addon which adds a shortcut button (Have to assign it within F1>PLusing Settings) to change the base shaders to the Unity Standard shader (For Lighting Purposes).
-  - Not to be mistaken with KKUS they are different mods for different purposes.
-- Author(s):         https://ux.getuploader.com/nHaruka_KK/
-- More information:  https://ux.getuploader.com/nHaruka_KK/
-
 # Koikatsu:Become Trap
 - Short description: Mod that adds a new setting to male character maker - "Character is a trap". 
 - Author(s):         https://github.com/ManlyMarco
@@ -1011,6 +1005,18 @@
 - Short description: Prevents corrupted setting from causing issues and forces studio to use the settings.xml file instead of registry.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes 
+
+# Shader Management Tool
+- Short description: This is a plugin which adds an option to mass change shaders for characters or items (From a scene in Character studio) One would first need to set up a menu for it in F1>Plugins menu and then go through the process of selecting the shader>parts of the body/items>apply it.
+  - Not to be mistaken with KKUS they are different mods for different purposes.
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
+# Shader Change Plugin (KKUSS Includes Unity Standard Shader)
+- Short description: This is a plugin/shader addon which adds a shortcut button (Have to assign it within F1>PLusing Settings) to change the base shaders to the Unity Standard shader (For Lighting Purposes).
+  - Not to be mistaken with KKUS they are different mods for different purposes.
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # Shower Accessories Fix
 - Short description: Prevents accessories from being removed in shower peeping mode. No more gaping holes in the head when using hair accessories.
