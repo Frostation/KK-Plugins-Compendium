@@ -663,8 +663,8 @@
 
 # KK_PostProcessingEffects
 - Short description: Adds additional post processing options in the F1 Plugins menu (Warning there is known to be some texture Issues with this)
-- Author(s):         N/A (Check Poster and Creator via Link)
-- More information:  https://twitter.com/nHaruka_KK/status/1390650469458927616
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # KK_PovX
 - Short description: Adds a PoV function to Koikatsu (Older Variant)
@@ -1157,6 +1157,11 @@
 - Short description: For Koikatsu, adds subtitles for H scenes, spoken text in dialogues, and character maker.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# Text Box Maker
+- Short description: Adds the option to add multiple Text Boxes on screen with different fonts/colors/options, have to set up the key bind for the menu in F1>Plugins Menu
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # Text Resource Redirector
 - Short description: Allows translations to override individual assets. Required for some translations to function correctly. 
