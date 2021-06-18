@@ -731,6 +731,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioPOV
 
+# KK_Studio Scene Initial Camera
+- Short description: This plugin attemps to save the last known position of the current active camera in character studio when loading a scene there is an additional "`" button for it's functionality works the same as the 1~0 camera numbers on the keyboard (The added custom camera to the workspace does not save with the scene).
+- Author(s):         https://gebo1.github.io/GeBoPlugins
+- More information:  https://github.com/GeBo1/GeBoPlugins
+
 # KK_SubCamera
 - Short description: Adds an additional camera frame to the game (H-Scenes/Studio, the button being "," to activate) in realtime in which one can use for a multitude of things.
 - Author(s):         Sabakan (サバカン)        
