@@ -771,6 +771,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/ABMX
 
+# KKHandyPlugin
+- Short description: This plugina adds the functionality to work in sync with the handy toy (I.E Irl H toys) This plugin serves as a basis to send data to [KK Handy Server](https://github.com/KarilChan/handy-koikatsu-server) which translates the data to make the toy move. 
+- Author(s):         https://github.com/KarilChan
+- More information:  https://github.com/KarilChan/KKHandyPlugin
+
 # KKPE
 - Short description: KKPE is a mod that adds alternative (and more precise) controls to IK for your characters.
 - Author(s):         https://www.patreon.com/joan6694
