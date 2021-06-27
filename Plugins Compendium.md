@@ -102,7 +102,7 @@
 - More information:  https://blog.maki0419.com/2020/01/koikatu-chara-overlays-based-on-coordinate.html
 
 # Character Export
-- Short description: Allows one to export characters from a scene in studio.
+- Short description: Allows one to export characters from a scene in studio, in maker or from main game story event scenes.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
