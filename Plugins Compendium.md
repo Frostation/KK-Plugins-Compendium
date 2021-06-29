@@ -456,6 +456,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
+# KK_ButtPlugin
+- Short description: A plugin that will add support for devices that would funciton with [Buttplug.io](https://buttplug.io/) it's functionality is within VR and other methods for stroking characters in H-Scenes.
+- Author(s):         https://github.com/Sauceke
+- More information:  https://github.com/Sauceke/KK_ButtPlugin
+
 # KK_BonerStateSync
 - Short description: Can Make Body adjustment and sizes dependant on the characters clothing state for custom body sizes. (Tab is added to the bottom right)
 - Author(s):         https://github.com/Madevil/
