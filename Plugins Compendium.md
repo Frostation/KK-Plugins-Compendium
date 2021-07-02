@@ -1,15 +1,34 @@
 ## Main List of Plugins:
 
+# AccessoryClothes
+- GUID:              `com.deathweasel.bepinex.accessoryclothes`
+- Short description: This plugin allows for accessories that are made with this plugin in mind to be manipulated by the body bones. (I.E A scarf over a shoulder bending with when the shoulder moves upwards instead of just clipping through.)
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://www.patreon.com/posts/accessoryclothes-43222792
 
-# Add mob characters to roam mode
+# Accessory Quick Remove
+- GUID:              `com.deathweasel.bepinex.accessoryquickremove`
+- Short description: This plugin makes it so that you can remove accessories from the tab much faster by just selecting the accessory and pressing the Delete key on your keyboard.
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://www.patreon.com/posts/46832511
+
+# Add mobs to roam mode
+- GUID:              `KK_MobAdder`
 - Short description: Adds uninteractable colored NPCs to the game to make it more lively.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
-# Additional Skin Effect
+# Additional Skin Effects
+- GUID:              `Marco.SkinEffects`
 - Short description: Adds various and special skin effects that are not present vanilla.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_SkinEffects
+
+# AdvIKPlugin
+- GUID:              `orange.spork.advikplugin`
+- Short description: Allows one to adjust shoulder rotation and make more smoother and more natrual poses when using IK within character studio.
+- Author(s):         https://github.com/OrangeSpork/
+- More information:  https://github.com/OrangeSpork/AdvIKPlugin
 
 # ADV_Editor
 - Short description: A custom tool for creating custom scenarios and scenes in some illusion games (Not meants for average users)
@@ -17,24 +36,34 @@
 - More information:  https://github.com/ManlyMarco/ADV_Editor
 
 # Animation Controller
+- GUID:              `com.deathweasel.bepinex.animationcontroller`
 - Short description: Allows attaching IK nodes to objects to create custom animations. 
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# AnimationLoader
+# Animation Loader
+- GUID:              `essuhauled.animationloader`
 - Short description: Allows for the game to have Additional Animations Specifically H-Mode (Animations are accessed via zipmods download them with KK manager)
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/AnimationLoader
 
 # Animation Overdrive
+- GUID:              `com.deathweasel.bepinex.animationoverdrive`
 - Short description: Allows you to adjust the animation speed beyond the normal cap of 3.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Anime Ass Assistant
+- GUID:              `keelhauled.animeassassistant`
 - Short description: An assistant to help you manage your huge card collections.
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
+
+# AutoSave
+- GUID:              `com.deathweasel.bepinex.autosave`
+- Short description: Autosaves cards and scenes within studio in a defined interval which can be changed in the plugins menu by defualt it's 5 minutes. (Note:This plugin is not designed to save your progress within main game it is only intended for card and scene making.)
+- Author(s):         https://github.com/DeathWeasel1337
+- More information:  https://www.patreon.com/posts/44708282
 
 # BepInEx
 - Short description: Unity Plugin Framework to be able to mod unity games.
@@ -42,6 +71,7 @@
 - More information:  https://github.com/BepInEx/BepInEx
 
 # BepInEx.IPALoader
+- GUID:              `BepInEx.IPALoader`
 - Short description: Allows for IPA plugins to work with bepinex.
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/IPALoaderX
@@ -57,11 +87,13 @@
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
 # Better Color Picker
+- GUID:              `marco.better_color_picker`
 - Short description: Plugin that adds ability to pick color from anywhere on desktop.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_BetterColorPicker
 
 # BGM Loader
+- GUID:              `com.bepis.bgmloader`
 - Short description: Loads custom BGMs and clips played on game startup.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
@@ -76,22 +108,32 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
+# Bulge in the pants, tent in the woods (KK_Bulge)
+- GUID:              `Bulge`
+- Short description: Adds crotch bulges to clothing for characters with a male genitalia. (Can be adjusted globally for characters)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
+
 # Camera Target Fix
+- GUID:              `KK_Fix_CameraTarget`
 - Short description: Fixes the center in which characters would look at when designated.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # CameraFrameMask 
+- GUID:              `keelhauled.cameraframemask`
 - Short description: Hides certain aspects of the character during loading until it loads proper. (It is to hide the oddities during character loading.)
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Card Author Data
+- GUID:              `marco.authordata`
 - Short description: Ability to save a card with an author (Name of the maker) attached to it. (Note:Has been merged into Modding API plugin)
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionModdingAPI
 
 # Centered HScene Cursor
+- GUID:              `KK_Fix_CenteredHSceneCursor`
 - Short description: Centers the Hand Cursor during HScenes.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
@@ -102,31 +144,37 @@
 - More information:  https://blog.maki0419.com/2020/01/koikatu-chara-overlays-based-on-coordinate.html
 
 # Character Export
+- GUID:              `com.deathweasel.bepinex.characterexport`
 - Short description: Allows one to export characters from a scene in studio, in maker or from main game story event scenes.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Character List Optimizations
+- GUID:              `KK_Fix_CharacterListOptimizations`
 - Short description: Optimizes and organizes character card lists.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Character Maker Heterochromia Fix
+- GUID:              `KK_Fix_Heterochromia`
 - Short description: Fixes an issue with making different eye colors for a character.
 - Author(s):         https://github.com/IllusionMods         
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Character Maker Loaded Sound
+- GUID:              `com.deathweasel.bepinex.charamakerloadedsound`
 - Short description: Plays a sound when the Chara Maker finishes loading.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Character Replacer
+- GUID:              `IllusionMods.CharacterReplacer`
 - Short description: Enables one to replace base characters in maker and the janitor from the darkness DLC.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/CharacterReplacer
 
-# CharaState X
+# CharaStateX
+- GUID:              `keelhauled.charastatex`
 - Short description: Allows editing the state of multiple studio characters simultaneously.
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
@@ -137,51 +185,61 @@
 - More information:  https://koikoi.happy.nu/#!plugin_chase_me.md
 
 # Cheat Tools
+- GUID:              `CheatTools`
 - Short description: Trainer for some games made by Illusion. It allows control over most aspects of the game.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionCheatTools
 
 # Clothes Overlay Mod
+- GUID:              `KCOX`
 - Short description: Enables one to customize the texture of the base clothing within the game or the ones modded in.
 - Author(s):         https://github.com/ManlyMarco/
 - More information:  https://github.com/ManlyMarco/Illusion-Overlay-Mods
 
 # Clothing State Menu
+- GUID:              `ClothingStateMenu`
 - Short description: Enables you to adjust clothing state of characters (Changing States of clothing/accessories to half off or removing) (The difference with the X version is in the fact that it can be used in various game scenarios I.E mid conversation)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion_ClothingStateMenu
 
-# Clothing State Menu X
+# ClothingStateMenuX
+- GUID:              `keelhauled.clothingstatemenux`
 - Short description: Enables you to adjust clothing state of characters (Changing States of clothing/accessories to half off or removing) (Difference with previous version is that it is an integrated version into the UI)
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Clothing Unlocker
+- GUID:              `com.deathweasel.bepinex.clothingunlocker`
 - Short description: Allows gender restricted clothing to be used on all characters. 
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Colliders 
+- GUID:              `com.deathweasel.bepinex.colliders`
 - Short description: Adds floor, breast, hand, and skirt colliders.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Color Filter Remover
+- GUID:              `com.bepis.bepinex.colorcorrector`
 - Short description: Allows configuration of some post-processing filters.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
 # Configuration Manager
+- GUID:              `com.bepis.bepinex.configurationmanager`
 - Short description: An easy way to configure Plugins and adjust them
 - Author(s):         https://github.com/BepInEx/
 - More information:  https://github.com/BepInEx/BepInEx.ConfigurationManager
 
 # Coordinate Capture Pose Unlock
+- GUID:              `com.jim60105.kk.coordinatecaptureposeunlock`
 - Short description: Lifting the posture restriction when archiving photo costumes. (I.E the pose you save your outfits with will be saved in your outfit folder)
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2020/06/koikatu-coordinate-capture-pose-unlock.html#more
 
 # Coordinate Load Option
+- GUID:              `com.jim60105.kk.coordinateloadoption`
 - Short description: Adds additional options when loading clothing outfits for characters.
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2019/03/koikatu-coordinate-load-option.html
@@ -202,6 +260,7 @@
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # DefaultParamEditor
+- GUID:              `keelhauled.defaultparameditor`
 - Short description: Allows editing default settings for character/scene parameters such as eye blinking or shadow density.
 - Author(s):         https://github.com/Keelhauled      
 - More information:  https://github.com/Keelhauled/KeelPlugins
@@ -212,6 +271,7 @@
 - More information:  N/A (Plugin can be acquired through the Koikatsu Discord Server)
 
 # Demosaic
+- GUID:              `com.deathweasel.bepinex.demosaic`
 - Short description: Removes the mosaic from female characters.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -221,47 +281,56 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
-# Drag&Drop
+# Drag & Drop
+- GUID:              `keelhauled.draganddrop`
 - Short description: A plugin for games made by Illusion that allows you to drag cards, scenes and outfits to the game window to load them. 
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/IllusionMods/DragAndDrop
 
 # Dress for Success
+- GUID:              `com.gebo.BepInEx.GameDressForSuccess`
 - Short description: Player character changes outfit based on the type of invite they recieve/give.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://gebo1.github.io/GeBoPlugins/src/GameDressForSuccess/
 
 # Enable Resize (Enable Full ScreenToggle)
+- GUID:              `BepInEx.EnableResize`
 - Short description: Enables window resizing.
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
 
 # Expand Male Maker
+- GUID:              `kokaiinum.KKExpandMaleMaker`
 - Short description: Expands the options available in the male maker by allowing the heigh to be changed and gives access to other options.
 - Author(s):         https://github.com/Kokaiinum
 - More information:  https://github.com/Kokaiinum/KK_ExpandMaleMaker
 
 # Extended Save
+- GUID:              `com.bepis.bepinex.extendedsave`
 - Short description: Allows additional data to be saved to character, coordinate and scene cards.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
 # Eye Shaking
+- GUID:              `com.deathweasel.bepinex.eyeshaking`
 - Short description: Virgins in H scenes will appear to have slightly shaking eye highlights.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Fade Adjuster
+- GUID:              `com.deathweasel.bepinex.fadeadjuster`
 - Short description: Allows one to edit the in-out fade color or disable it within the game.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # FBI Open Up
+- GUID:              `com.jim60105.kk.fbiopenup`
 - Short description: Adds the option to significantly change a character to that of a much younger age. (ABMX Settings are not calculated, please read the info thoroughly)
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2020/01/koikatu-fbi-open-up.html#more
 
 # Fix Shader Dropdown Menu
+- GUID:              `KK_Fix_ExpandShaderDropdown`
 - Short description: Fixes shader drop down menu not opening correctly
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
@@ -272,41 +341,49 @@
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Fix_StudioWindow
+- GUID:              `Fix_StudioWindow`
 - Short description: Enlarges the lists within studio to see more options at a time and minor tweaks and fixes for the screen.
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # FK and IK
+- GUID:              `com.deathweasel.bepinex.fkik`
 - Short description: Enables FK and IK at the same time. (Gives the option to do so in studio)
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Force High Poly
+- GUID:              `com.deathweasel.bepinex.forcehighpoly`
 - Short description: Forces all characters to load in high poly mode, even in the school exploration mode.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # FPS Counter
+- GUID:              `MarC0.FPSCounter`
 - Short description: Adds an FPS counter to game to check the frames per second that the game plays on for benchmarking and testing.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/FPSCounter
 
 # Free H Random
+- GUID:              `com.deathweasel.bepinex.freehrandom`
 - Short description: Adds buttons to Free H selection screen to get random characters for your H session.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Game and Studio Data Corruption Fixes
+- GUID:              `KK_Fix_DataCorruptionFixes`
 - Short description: Fixes applied to minimize corrpution to files.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Game Dialog Helper
+- GUID:              `com.gebo.BepInEx.GameDialogHelper`
 - Short description: During school conversation with characters it highlights the correct choices/answers for their questions.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://gebo1.github.io/GeBoPlugins/src/GameDialogHelper/
 
 # GeBo Modding API (GeBoCommon)
+- GUID:              `com.gebo.BepInEx.GeBoAPI`
 - Short description: Contains shared code used by other plugins in this repo. Unless otherwise noted latest version should continue to work with older versions of plugins.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://github.com/GeBo1/GeBoPlugins
@@ -317,36 +394,43 @@
 - More information:  https://github.com/lynzrand/gettapped
 
 # Graphics Settings
+- GUID:              `keelhauled.graphicssettings`
 - Short description: Exposes unity's graphics settings and some other values for editing in ConfigurationManager.
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.GraphicsSettings
 
 # H Character Adjustment
+- GUID:              `com.deathweasel.bepinex.hcharaadjustment`
 - Short description: Adjust the position of the female character in H scene by pressing some hotkeys, which are configurable in the plugin settings.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Hair Accessory Customizer
+- GUID:              `com.deathweasel.bepinex.hairaccessorycustomizer`
 - Short description: Adds configuration options for hair accessories to the character maker. 
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Hair Shadows Fix
+- GUID:              `Fix_HairShadows`
 - Short description: Moddifies the render que for hair so that they recieve shadows within game.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Head Fix
+- GUID:              `KK_Fix_ModdedHeadEyeliner`
 - Short description: Fixes certain eyeliners clipping with custom heads within character maker.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
-# Height BarX
+# HeightBarX
+- GUID:              `HeightBar`
 - Short description: Allows the character maker to have a Height Bar measurer.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion_HeightBar
 
-# HideALLUI
+# HideAllUI
+- GUID:              `keelhauled.hideallui`
 - Short description: Gives on the option to Hide UI for the game by pressing space bar.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/HideAllUI
@@ -362,36 +446,43 @@
 - More information:  https://github.com/IllusionMods/IllusionLaunchers
 
 # Image Embed
+- GUID:              `com.deathweasel.bepinex.studioimageembed`
 - Short description: This plugin will save .png files from your userdata folder to the scene data so anyone else can load the scene properly without needing the same .png.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Image Series Recorder
+- GUID:              `marco.ImageSeriesRecorder`
 - Short description: Tool for rendering a series of images together within koikatsu.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_ImageSeriesRecorder
 
 # Input Hotkey Block
+- GUID:              `BepInEx.InputHotkeyBlock`
 - Short description: Prevents plugin hotkeys from triggering while typing in an input field.
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility   
 
 # Input Length Unlocker
+- GUID:              `com.bepis.bepinex.inputunlocker`
 - Short description: Allows user to input longer than normal values to InputFields. This allows longer names and other properties stored as text.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
 # Invalid Scene Protection
+- GUID:              `KK_Fix_InvalidSceneFileProtection`
 - Short description: Adds error handling to scene loading and importing. So that when you load an invalid scene character studio doesn't crash.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Invisible Body
+- GUID:              `com.deathweasel.bepinex.invisiblebody`
 - Short description: Adds an option which lets one to make the character body invisible. (All clothing/accessories are still visible)
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Item Layer Edit
+- GUID:              `keelhauled.itemlayeredit`
 - Short description: Adds a hotkey that switches the currently selected objects layer between the character layer and the map layer.
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
@@ -400,11 +491,6 @@
 - Short description: Highlights Accessories that are hovered over via cursor within the charactermaker of the game. (Useful for identifying where some accessories are positions where there are duplicates)
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccGotHigh
-
-# KK_AutoSave
-- Short description: Autosaves cards and scenes within studio in a defined interval which can be changed in the plugins menu by defualt it's 5 minutes. (Note:This plugin is not designed to save your progress within main game it is only intended for card and scene making.)
-- Author(s):         https://github.com/DeathWeasel1337
-- More information:  https://www.patreon.com/posts/44708282
 
 # KK_AutoStart
 - Short description: Adds a plugin which will automatically start up a mode when you launch the game or command arguments such as shortcuts for it (Autostart transition to a specific mode can be cancelled by pressing ESC on keyboard during loading or disabling/changing parameters in the plugins menu)
@@ -416,32 +502,19 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccStateSync
 
-# KK_AccessoryClothes
-- Short description: This plugin allows for accessories that are made with this plugin in mind to be manipulated by the body bones. (I.E A scarf over a shoulder bending with when the shoulder moves upwards instead of just clipping through.)
-- Author(s):         https://github.com/DeathWeasel1337
-- More information:  https://www.patreon.com/posts/accessoryclothes-43222792
-
-# KK_AccessoryQuickRemove
-- Short description: This plugin makes it so that you can remove accessories from the tab much faster by just selecting the accessory and pressing the Delete key on your keyboard.
-- Author(s):         https://github.com/DeathWeasel1337
-- More information:  https://www.patreon.com/posts/46832511
-
 # KK_ActionSubMenuScroll
 - Short description: Adds the abillity to scroll through the H-List options in H mode (Keyboard arrow keys can also be used as well)
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_Ahegao
+- GUID:              `KK_Ahegao`
 - Short description: Allows adjustment of the ahegao face expression. (How long until it is activated during H)
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
 - More information:  N/A (Plugin can be acquired via either the HF-Patch or acquiring it within the Illusion/Koikatsu Discord Servers)
 
-# KK_AdvIKPlugin
-- Short description: Allows one to adjust shoulder rotation and make more smoother and more natrual poses when using IK within character studio.
-- Author(s):         https://github.com/OrangeSpork/
-- More information:  https://github.com/OrangeSpork/AdvIKPlugin
-
-# KK_Better Penetration 
+# KK Better Penetration
+- GUID:              `animal42069.KKbetterpenetration`
 - Short description: Changes/Adjusts the penetrations animation and what not for the game this pack includes 4 uncensors with their own extra bones to work with this (2 males, 2 females) check link for more detail.
 - Author(s):         https://github.com/Animal42069
 - More information:  https://github.com/Animal42069/BetterPenetration/
@@ -450,11 +523,6 @@
 - Short description: Adds the option for one to customize the breast physics per outfit/per outfit state. (If you get error spams it's due to missing config file read the readme/manual)
 - Author(s):         https://github.com/SNW-KK/KK_BreastPhysicsController
 - More information:  https://ux.getuploader.com/koi_util/index/date/desc/1
-
-# KK_Bulge
-- Short description: Adds crotch bulges to clothing for characters with a male genitalia. (Can be adjusted globally for characters)
-- Author(s):         https://github.com/ManlyMarco
-- More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_ButtPlugin
 - Short description: A plugin that will add support for devices that would funciton with [Buttplug.io](https://buttplug.io/) it's functionality is within VR and other methods for stroking characters in H-Scenes.
@@ -482,6 +550,7 @@
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_DateChecker
+- GUID:              `KK_DateChecker`
 - Short description: Adds a date checker to main game to see if there is an appointment (Date) when the character data is loaded within the game from the Main Characters room.
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
@@ -501,9 +570,10 @@
 - Author(s):         N/A
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
-# KK_EroStatus
+# Ero status
+- GUID:              `picolet21.koikatsu.EroStatus`
 - Short description: Allows one to set the Erotic Experience/Virginity of characters within the Maker.
-- Author(s):         N/A
+- Author(s):         picolet21
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_ExpressionControl
@@ -531,7 +601,8 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
-# KK_GamepadSupport
+# GamepadSupport
+- GUID:              `GamepadSupport`
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_GamepadSupport
@@ -547,6 +618,7 @@
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_HCameraLight
+- GUID:              `KK_HCameraLight`
 - Short description: This plugin allows you to change some light settings during H (Older variation of the plugin)
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/KK_HCameraLight
@@ -557,16 +629,19 @@
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # KK_HLightControl
+- GUID:              `KK_HLightControl`
 - Short description: This plugin allows you to change some light settings during H
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/HLightControl
 
-# KK_HSceneOptions
+# HSceneOptions
+- GUID:              `MK.KK_HSceneOptions`
 - Short description: Adds additional Options and Keyboard shortcuts to H-scenes within Koikatsu. (Check the requirements for this plugin it requires After School DLC.)
 - Author(s):         https://github.com/MayouKurayami
 - More information:  https://github.com/MayouKurayami/KK_HSceneOptions
 
-# KK_ItemBlacklist
+# Item Blacklist
+- GUID:              `com.deathweasel.bepinex.itemblacklist`
 - Short description: Adds the ability to hide items from character maker by right clicking (Also checking which modded items are for what zipmod) [Note:Check the requirements of the plugin for proper installation.]
 - Author(s):         https://github.com/DeathWeasel1337/
 - More information:  https://www.patreon.com/posts/41607128
@@ -582,6 +657,7 @@
 - More information:  N/A (Will be added soon)
 
 # KK_LiveStageAudience
+- GUID:              `KK_LiveStageAudience`
 - Short description: Adds the ability to change the amount of present audience members in the "Live Stage".
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
@@ -591,17 +667,20 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
-# KK_LewdCrestX
+# LewdCrestX
+- GUID:              `LewdCrestX`
 - Short description: Adds an option to add crests to characters bodies out of 32 available which some have in game properties and some are just for flavor.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_MakerAdditions
+- GUID:              `KK_MakerAdditions`
 - Short description: This plugin adds extra features to the character maker. (Adjusting accessories beyond the 100 -100 limit and further movement 0.01 position, 0.1 angle)
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/MakerAdditions
 
 # KK_MakerSearch
+- GUID:              `KK_MakerSearch`
 - Short description: This plugin allows you search items in the Character Maker.
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/MakerSearch
@@ -611,7 +690,8 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KKManager
 
-# KK_MakerDefaults 
+# Maker Defaults 
+- GUID:              `com.deathweasel.bepinex.makerdefaults`
 - Short description: Allows one to set the settings for character maker pre-emptively in F1>Plugins Menu for things such as blinking being enabled or not.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -636,12 +716,14 @@
 - Author(s):         https://github.com/Madevil
 - More information:  https://github.com/Madevil/KK_MovUrAcc
 
-# KK_NightDarkener
+# Night Darkener
+- GUID:              `Marco.NightDarkener`
 - Short description: Plugin that darkens the map in Free H scenes set at night to something slightly more realistic. Configurable, can go down to horror levels of darkness.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
-# KK_PantyFairy
+# PantyFairy
+- GUID:              `PantyFairy`
 - Short description: Adds a custom scenario to the main game akin with quests
 - Author(s):         https://github.com/ManlyMarco    
 - More information:  https://www.patreon.com/posts/kk-pantyfairy-v1-50367938
@@ -652,11 +734,13 @@
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
 # KK_Pregnancy
+- GUID:              `KK_Pregnancy`
 - Short description: Plugin that adds pregnancy gameplay to the main game with related maker customization options.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_PregnancyPlus
+- GUID:              `KK_PregnancyPlus`
 - Short description: Adds additional pregnancy options to Character Studio Only. (Works as an addon to KK_Pregnancy can work without it as well.)
 - Author(s):         hhttps://github.com/thojmr
 - More information:  https://github.com/thojmr/KK_PregnancyPlus/
@@ -672,16 +756,19 @@
 - More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # KK_PovX
+- GUID:              `com.2155x.fairbair.kk_povx`
 - Short description: Adds a PoV function to Koikatsu (Older Variant)
 - Author(s):         https://github.com/FairBear
 - More information:  https://github.com/FairBear/KK_PovX
 
-# KK_Profile 
+# Profile 
+- GUID:              `com.deathweasel.bepinex.profile`
 - Short description: Adds a profile text box for one to add a character describtion for their cards in character maker.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # KK_QuickAccessBox
+- GUID:              `KK_QuickAccessBox`
 - Short description: A quick access list for searching through all of the items, both stock and modded within character studio.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/QuickAccessBox
@@ -696,7 +783,8 @@
 - Author(s):         https://github.com/Sauceke
 - More information:  https://github.com/Sauceke/KK_SexFaces
 
-# KK_SliderHighlight
+# SliderHighlight
+- GUID:              `SliderHighlight`
 - Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IL_SliderHighlight
@@ -707,16 +795,19 @@
 - More information:  https://github.com/Madevil/KK_SMAP
 
 # KK_StudioAccessoryNames
+- GUID:              `KK_StudioAccessoryNames`
 - Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
 
-# KK_StudioCameraObjectTweaks
+# Studio Camera Tweaks
+- GUID:              `StudioCameraTweaks`
 - Short description: Plugin that tweaks the way the camera tool in the workspace works whenever spawning a new one, instead of it being spawned in a origin to be tweaked thoroughly to get the right angle it'll spawn with the angle that ones camera has in studio instead.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
-# KK_StudioExtraMoveAxis
+# Extra move axis in bottom right corner (StudioExtraMoveAxis)
+- GUID:              `StudioExtraMoveAxis`
 - Short description: Adds an Extra Axis to the bottom right of character studio for easy adjustment when selecting character/items it can also be disabled via the buttons on the left side of the screen.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/StudioExtraMoveAxis
@@ -726,20 +817,23 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/Port_StudioCharaSort
 
-# KK_StudioMultiSelectChara
+# Studio MultiSelect Chara
+- GUID:              `com.gebo.BepInEx.studiomultiselectchara`
 - Short description: Adds a button hotkey to studio to select multiple instances of a character with a press of the button.
 - Author(s):         https://gebo1.github.io/GeBoPlugins
 - More information:  https://gebo1.github.io/GeBoPlugins/src/StudioMultiselectChara/
 
 # KK_StudioPOV
+- GUID:              `KK_StudioPOV`
 - Short description: This plugin allows you to have first person view in Studio.
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioPOV
 
-# KK_Studio Scene Initial Camera
+# Studio Scene Initial Camera
+- GUID:              `com.gebo.BepInEx.studioinitialcamera`
 - Short description: This plugin attemps to save the last known position of the current active camera in character studio when loading a scene there is an additional "`" button for it's functionality works the same as the 1~0 camera numbers on the keyboard (The added custom camera to the workspace does not save with the scene).
 - Author(s):         https://gebo1.github.io/GeBoPlugins
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/StudioSceneInitialCamera
 
 # KK_SubCamera
 - Short description: Adds an additional camera frame to the game (H-Scenes/Studio, the button being "," to activate) in realtime in which one can use for a multitude of things.
@@ -752,6 +846,7 @@
 - More information:  https://github.com/ManlyMarco/IllusionSFW
 
 # KK Uniform Uniforms
+- GUID:              `com.cptgrey.bepinex.uniform`
 - Short description: Let's one make a uniformal outfit color scheme for characters within game.   
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_UniformUniforms#kk_uniformuniforms
@@ -766,12 +861,14 @@
 - Author(s):         https://github.com/KoikDaisy
 - More information:  https://github.com/KoikDaisy/KK_VRHeadSizeAdjust
 
-# KK_WarpToCharacters
+# WarpToCharacters
+- GUID:              `WarpToCharacters`
 - Short description: This plugin adds a "warp to this character" button to the character roster in roaming mode. (Meaning it allows one to quickly teleport to a character/event)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KKABMX (BonemodX)
+- GUID:              `KKABMX.Core`
 - Short description: Adds more character customization settings.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/ABMX
@@ -782,36 +879,43 @@
 - More information:  https://github.com/KarilChan/KKHandyPlugin
 
 # KKPE
+- GUID:              `com.joan6694.kkplugins.kkpe`
 - Short description: KKPE is a mod that adds alternative (and more precise) controls to IK for your characters.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
 # KKUS
+- GUID:              `com.joan6694.illusionplugins.kkus`
 - Short description: This mod is a compilation of mini mods that aim to increase the quality of life in the main game and CharaStudio.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
-# Koikatsu:Become Trap
+# Koikatsu: Become Trap
+- GUID:              `marco.becometrap`
 - Short description: Mod that adds a new setting to male character maker - "Character is a trap". 
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionTrapMods
 
-# Koikatu Gameplay Mod
+# Koikatu Gameplay Tweaks and Improvements
+- GUID:              `marco-gameplaymod`
 - Short description: Adds quality of life changes to improve gameplay. (Such as some options within H scenes like keeping the body shown when touching, fast traveling around different parts of the map costing time etc)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # Light Manager
+- GUID:              `keelhauled.lightmanager`
 - Short description: Make studio spotlights automatically track characters.
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
 # List Override
+- GUID:              `com.deathweasel.bepinex.listoverride`
 - Short description: Allows you to override vanilla list files. Comes with some overrides that enable half off state for some vanilla pantyhose.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # LoadRandomMap
+- GUID:              `LoadRandomMap`
 - Short description: You can change the H-Scene map randomly within the map selection menu for H-Scenes defualt hotkey is (M) not compatible with VR.
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
@@ -822,21 +926,25 @@
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Main Game Optimizations
+- GUID:              `KK_Fix_MainGameOptimizations`
 - Short description: Some optimization plugins to help make the game run smoother.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Maker Optimizations
+- GUID:              `KK_Fix_MakerOptimizations`
 - Short description: Multiple Optimizations to enhance Character Maker.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Maker/Studio Browser Folders
+- `marco.FolderBrowser`
 - Short description: Adds subfolder support to main game and studio. (So that one can browse cards/outfits/scenes with more ease and making it more tidy overall)
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion_BrowserFolders
 
 # MakerBridge
+- GUID:              `keelhauled.makerbridge`
 - Short description: Adds a hotkey with which one can send the selected character from maker to studio and vice versa.
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
@@ -857,17 +965,20 @@
 - More information:  https://github.com/jalil49/Maker_Tools
 
 # Male Juice
+- GUID:              `com.deathweasel.bepinex.malejuice`
 
 - Short description: Enables juice textures for males in H scenes and Studio.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Material Editor
+- GUID:              `com.deathweasel.bepinex.materialeditor`
 - Short description: MaterialEditor is a plugin that allows you to edit many properties of objects that aren't usually accessible in game.      
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Message Center
+- GUID:              `com.bepis.messagecenter`
 - Short description: A simple plugin that shows any log entries by plguins marked as "Message" on screen. 
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
@@ -878,6 +989,7 @@
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # Mod Bone Implantor
+- GUID:              `com.rclcircuit.bepinex.modboneimplantor`
 - Short description: Plugin for Koikatsu and EmotionCreators that allows clothing mods to add physics.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/ModBoneImplantor
@@ -888,11 +1000,13 @@
 - More information:  https://github.com/IllusionMods/IllusionModdingAPI
 
 # More Accessory Parents
+- GUID:              `marco.MoreAccParents`
 - Short description: Adds additional attachment points for accessories. It allows attaching to all finger segments, buttocks and toes.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_MoreAccessoryParents
 
-# More Accessories
+# MoreAccessories
+- GUID:              `com.joan6694.illusionplugins.moreaccessories`
 - Short description: This plugin extends the number of accessories you can have for a character.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
@@ -902,75 +1016,90 @@
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
 
-# Nodes Contraints
+# NodesContraints
+- GUID:              `com.joan6694.illusionplugins.nodesconstraints`
 - Short description: This mod allows the user to link objects together that shouldn't be linkable using the vanilla way.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
 # Null Checks
+- GUID:              `KK_Fix_NullChecks`
 - Short description: Fixes for some questionably made mods causing issues.
 - Author(s):         https://github.com/IllusionMods 
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Optimize IMGUI GC allocations
+- GUID:              `BepInEx.OptimizeIMGUI`
 - Short description: Reduces unecessary GC (Garbage Collection) allocation I.E memory data basically and it helps with optimization.
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
 
 # Party Card Compatibility 
+- GUID:              `KK_Fix_PartyCardCompatibility`
 - Short description: Allows loading of cards saved in Koikatsu Party (Steam release) in Koikatu and Studio. 
 - Author(s):         https://github.com/IllusionMods 
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Personality Corrector
+- GUID:              `KK_Fix_PersonalityCorrector`
 - Short description: Prevents cards with invalid or missing personalities from crashing the game. A default personality is set instead.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Plugin List Tool
+- GUID:              `com.jim60105.kk.pluginlisttool`
 - Short description: This tool can export BepInEx plugins and IPA plugins loaded in the current game
 - Author(s):         https://blog.maki0419.com/
 - More information:  https://blog.maki0419.com/2020/01/koikatu-plugin-list-tool.html
 
 # PNG Capture Size Modifier
+- GUID:              `com.jim60105.kk.pngcapturesizemodifier`
 - Short description: Allows one to have custom sized cards for when saving in studio/charamaker. (Please read the info thoroughly for this plugin to avoid issues)
 - Author(s):         https://blog.maki0419.com/
 - More information:  https://blog.maki0419.com/2020/02/koikatu-png-capture-size-modifier.html
 
 # Pose Folders
+- GUID:              `com.deathweasel.bepinex.posefolders`
 - Short description: Create new folders in userdata/studio/pose and place the pose data inside them. Folders will show up in your list of poses in Studio.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Pose Load Fix
+- GUID:              `KK_Fix_PoseLoad`
 - Short description: Corrects Honey Select poses loaded in Koikatsu and prevents errors.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
-# Pose Unlocker
+# Pose Gender Restriction Unlocker
+- GUID:              `com.deathweasel.bepinex.poseunlocker`
 - Short description: Lifts the restriction of not being able to pose males poses on females or vice versa in character studio.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Pose Quick Load
+- GUID:              `com.deathweasel.bepinex.posequickload`
 - Short description: A plugin that lets you load saved poses in Studio just by clicking on the pose. 
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Pushup
+- GUID:              `com.deathweasel.bepinex.pushup`
 - Short description: Provides sliders and setting to shape the breasts of characters when bras or tops are worn. 
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Random Character Generator
+- GUID:              `com.deathweasel.bepinex.randomcharactergenerator`
 - Short description: Provides an option to generate random characters in the character maker.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# Random Name Providor
-- Short description: Provides an option to generate random names in the character maker.
-- Author(s):         Unkown, will be changed as soon as being notified
-- More information:  N/A Can be obtained via the HF-Patch
+# Random Name Provider
+- GUID:              `com.illusionmods.translationtools.random_name_provider`
+- Short description: Replaces or expands random name tables included in the game. No longer needed except to provide translated Japanese names when using Party version of game.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/TranslationTools
+
 # RealPoV
 - Short description: First person mode for the game.
 - Author(s):         https://github.com/Keelhauled
@@ -981,17 +1110,20 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
-# Remove Cards to Recycle Bin
+# Remove Cards To Recycle Bin
+- GUID:              `marco.RemoveToRecycleBin`
 - Short description: A plugin that moves removed/overwritten cards and scenes to the recycle bin to prevent accidentally losing your work.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion_RemoveToRecycleBin
 
 # Resource Unload Optimizations
+- GUID:              `KK_Fix_ResourceUnloadOptimizations`
 - Short description: Improves loading times and eliminates stutter after loading was "finished".
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
-# Restore Missing Functions
+# Restore missing functions
+- GUID:              `KK_Fix_RestoreMissingFunctions`
 - Short description: Adds head selection menu to games without Darkness DLC.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
@@ -1007,6 +1139,7 @@
 - More information:  https://koikoi.happy.nu/#!plugin_rotate90.md
 
 # Runtime Unity Editor
+- GUID:              `RuntimeUnityEditor`
 - Short description: In-game inspector, editor and interactive console for applications made with Unity3D game engine.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/RuntimeUnityEditor
@@ -1017,6 +1150,7 @@
 - More information:  https://blog.maki0419.com/2020/06/koikatu-save-load-compression.html
 
 # Screenshot Manager
+- GUID:              `com.bepis.bepinex.screenshotmanager`
 - Short description: Creates screenshots based on settings. Can create screenshots of much higher resolution than what the game is running at. 
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
@@ -1027,6 +1161,7 @@
 - More information:  https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ
 
 # Settings Fix
+- GUID:              `KK_Fix_SettingsVerifier`
 - Short description: Prevents corrupted setting from causing issues and forces studio to use the settings.xml file instead of registry.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes 
@@ -1044,26 +1179,31 @@
 - More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # Shower Accessories Fix
+- GUID:              `KK_Fix_ShowerAccessories`
 - Short description: Prevents accessories from being removed in shower peeping mode. No more gaping holes in the head when using hair accessories.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes 
 
 # Sideloader
+- GUID:              `com.bepis.bepinex.sideloader`
 - Short description: Loads mods packaged in .zip archives from the Mods directory without modifying the game files at all. You don't unzip them, just drag and drop to Mods folder in the game root.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
 # Skin Overlay Mod
+- GUID:              `KSOX`
 - Short description: Plugin that allows adding overlay textures (tattoos) to character's face, body and clothes in games made by Illusion.
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion-Overlay-Mods
 
 # SlapMod
+- GUID:              `SlapMod`
 - Short description: This Plugins Changes the option of grabbing the butt to tapping it (Like how it's done to various parts of the body) sort of like a slap effect.
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
 # Slider Unlocker
+- GUID:              `com.bepis.bepinex.sliderunlocker`
 - Short description: Allows user to set values outside of the standard 0-100 range on all sliders in the editor.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
@@ -1079,26 +1219,31 @@
 - More information:  N/A you need to acquire this mod from a specific channel (#help) in the Koikatsu Discord Server otherwise it will break you character maker.
 
 # Studio Auto Close Loading Scene Window 
+- GUID:              `com.jim60105.kk.studioautocloseloadingscenewindow`
 - Short description: In the Load Scene window, the window is automatically closed after Import or Load.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/07/koikatu-studio-auto-close-loading-scene-window.html
 
 # Studio Chara Light Linked To Camera
+- GUID:              `com.jim60105.kk.studiocharalightlinkedtocamera`
 - Short description: Link the rotation value between the Studio character light and the angle of view
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/03/koikatu-studio-chara-light-linked-to-camera.html
 
 # Studio Chara Only Load Body
+- GUID:              `com.jim60105.kk.studiocharaonlyloadbody`
 - Short description: Keep clothes and accessories, only replace character bodies.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/05/koikatu-studio-chara-only-load-body.html
 
 # Studio Chika Replacer
+- GUID:              `com.jim60105.kk.studiochikareplacer`
 - Short description: A plugins which gives the option to replace all characters within a scene with chika quickly to save the scene for publishing without giving your own private cards.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/02/koikatu-studio-chika-replacer.html
 
 # Studio Custom Masking
+- GUID:              `com.deathweasel.bepinex.studiocustommasking`
 - Short description: Allows you to add map masking functionality for maps made out of items in Studio.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -1109,66 +1254,79 @@
 - More information:  https://blog.maki0419.com/2020/03/koikatu-studio-dual-screen.html
 
 # Studio Menu Scrolling Text
+- GUID:              `com.jim60105.kk.studiomenuscrollingtext`
 - Short description: Add scrolling display function for group lists and category lists for added items within character studio.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/09/koikatu-studio-menu-scrolling-text.html
 
 # Studio MultiSelect Chara
+- GUID:              `com.gebo.BepInEx.studiomultiselectchara`
 - Short description: If you select a character in studio and press the hotkey, all other instances of that character in the scene will also be selected. 
 - Author(s):         https://github.com/GeBo1
-- More information:  https://github.com/GeBo1/GeBoPlugins
+- More information:  https://gebo1.github.io/GeBoPlugins/src/StudioMultiselectChara/
 
 # Studio Object Move Hotkeys
+- GUID:              `com.deathweasel.bepinex.studioobjectmovehotkeys`
 - Short description: Allows you to move objects in studio using hotkeys. Press Y/U/I to move along the X/Y/Z axes. 
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Studio Optimizations
+- GUID:              `Fix_StudioOptimizations`
 - Short description: Optimizes various functions within studio to run smoother.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
 
 # Studio Reflect FK Fix
+- GUID:              `com.jim60105.kk.studioreflectfkfix`
 - Short description: Properly reflefcts poses made with IK when switching over when reflecting.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/05/koikatu-studio-reflect-fk-fix.html
 
 # Studio Save Workspace Order Fix
+- GUID:              `com.jim60105.kk.studiosaveworkspaceorderfix`
 - Short description: Properly saves the workspace in the order you have assigned your characters/items to.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/05/koikatu-studio-save-workspace-order-fix.html#more
 
 # Studio Scene Loaded Sound
+- GUID:              `com.deathweasel.bepinex.studiosceneloadedsound`
 - Short description: Plays a sound when a Studio scene finishes loading or importing. Useful if you spend the load time for large scenes alt-tabbed.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Studio Scene Navigation
+- GUID:              `com.gebo.bepinex.studioscenenavigation`
 - Short description: Provides hotkeys for loading the next/previous scene from the scenes folder.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://gebo1.github.io/GeBoPlugins/src/StudioSceneNavigation/
 
 # Studio Simple Color On Girls
+- GUID:              `com.jim60105.kk.studiosimplecolorongirls`
 - Short description: Enables women to support the monochrome function.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/04/koikatu-studio-simple-color-on-girls.html
 
 # Studio Text Plugin
+- GUID:              `com.jim60105.kk.studiotextplugin`
 - Short description: Adds text objects in Studio.
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2019/06/koikatu-studio-text-plugin.html
 
 # StudioAddonLite
+- GUID:              `keelhauled.studioaddonlite`
 - Short description: A lite version of the StudioAddon for HS.
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
-# Studio Scene Settings
+# StudioSceneSettings
+- GUID:              `com.deathweasel.bepinex.studioscenesettings`
 - Short description: Allows you to adjust a few more settings for scenes. Changes save and load with the scene data.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins   
 
 # Subtitles
+- GUID:              `com.deathweasel.bepinex.subtitles`
 - Short description: For Koikatsu, adds subtitles for H scenes, spoken text in dialogues, and character maker.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
@@ -1179,11 +1337,13 @@
 - More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # Text Resource Redirector
+- GUID:              `com.deathweasel.bepinex.textresourceredirector`
 - Short description: Allows translations to override individual assets. Required for some translations to function correctly. 
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/TranslationTools
 
 # Timeline
+- GUID:              `com.joan6694.illusionplugins.timeline`
 - Short description: Timeline is an animation plugin in which you can make your own animations.
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
@@ -1193,32 +1353,38 @@
 - Author(s):         N. Jächa
 - More information:  N/A (Search the Mod-Sharing Channel for the koikatsu discord server)
 
-# Timeline tracking Play/Pause Button 1.2
+# Timeline Button
+- GUID:              `TimelineButton`
 - Short description: Adds a Play/Pause button for Timeline on the bottom right corner for Character Studio (In response to Alt+T overlapping button inputs for timeline)
 - Author(s):         Keitaro
 - More information:  N/A (Search the Mod-Sharing Channel for the koikatsu discord server)
 
-# Title Shortcuts (Old version. Has been remade into KK_AutoStart)
+# Title Shortcuts
+- GUID:              `keelhauled.titleshortcuts`
 - Short description: Title menu keyboard shortcuts to open different modes. (For example, press F to open the female editor.)
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
 # Translation Cache Cleaner
+- GUID:              `com.gebo.bepinex.translationcachecleaner`
 - Short description: Removes all entries from your translation cache file that would be translated by existing translations.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/
 
 # Translation Helper
+- GUID:              `com.gebo.bepinex.translationhelper`
 - Short description: Improves the experience of using XUnity.AutoTranslator in numerous ways.
 - Author(s):         https://github.com/GeBo1
 - More information:  https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/
 
 # Uncensor Selector
+- GUID:              `com.deathweasel.bepinex.uncensorselector`
 - Short description: Allows you to specify which uncensors individual characters use and removes the mosaic censor.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # Unlimited Map Lights
+- GUID:              `KK_Fix_UnlimitedMapLights`
 - Short description: Allows using an unlimited amount of map lights in studio. Items usually don't support more than 3 lights.
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/IllusionFixes
@@ -1243,12 +1409,14 @@
 - Author(s):         https://blog.maki0419.com/2018/10/koikatu.html
 - More information:  https://blog.maki0419.com/2020/09/koikatu-what-are-you-saying.html
 
-# Xunity Auto Translator
+# XUnity Auto Translator
+- GUID:              `gravydevsupreme.xunity.autotranslator`
 - Short description: Translation loader.
 - Author(s):         https://github.com/bbepis/XUnity.AutoTranslator
 - More information:  https://github.com/bbepis/XUnity.AutoTranslator
 
-# Xunity Resource Redirector
+# XUnity Resource Redirector
+- GUID:              `gravydevsupreme.xunity.resourceredirector`
 - Short description: Modding API for overriding resources.
 - Author(s):         https://github.com/bbepis/XUnity.AutoTranslator
 - More information:  https://github.com/bbepis/XUnity.AutoTranslator
@@ -1257,7 +1425,6 @@
 - Short description: This mod adds several models within the crotch area of the body so that it can act as an X-Ray vission into the womb. (Read the Readme for full details regarding this plugin)
 - Author(s):         N/A GFAnon
 - More information:  N/A Can be searched witihn the Koikatsu Discord Server.
-
 
 ## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
 
