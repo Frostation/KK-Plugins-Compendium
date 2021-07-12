@@ -19,7 +19,7 @@
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
 # KK_AAAPK, Additional Accessory Advanced Parent Knockoff, Additional Accessory controls
-- Short description: Adds the ability to attach any bone node from an accessory (if it possesses one) to the character within the game (I.E could attach accessories by their tail bone if they have any such as attaching a ponytail by it's end to the head) among any other number of things.
+- Short description: Adds the ability to attach any bone node from an accessory (if it possesses one) to the character within the game (I.E could attach accessories by their tail bone if they have any such as attaching a ponytail by it's end to the head) or to add accessories on top of other accessories as bone parents, among other things.
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AAAPK
 
