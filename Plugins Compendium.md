@@ -1143,6 +1143,12 @@
 - Author(s):         https://koikoi.happy.nu/#!plugin_rotate90.md
 - More information:  https://koikoi.happy.nu/#!plugin_rotate90.md
 
+# RSkoi Particle Editor
+- Short description: This plugin enables the possibility to adjust particles and particle items within character studio, settings such as (Speed/distance/width) for example can be adjusted with this plugin.
+- Author(s):         RSkoi (can be found on the discord server)
+- More information:  Info regarding the plugin can be found in the #Mod-Sharing section of the discord (Link to Plugin:https://mega.nz/file/5k82waqR#EGJBlOBj5eaPWm-t8QTgHD3QE-4NatQsMb7nF0lUqMw
+)
+
 # Runtime Unity Editor
 - GUID:              `RuntimeUnityEditor`
 - Short description: In-game inspector, editor and interactive console for applications made with Unity3D game engine.
