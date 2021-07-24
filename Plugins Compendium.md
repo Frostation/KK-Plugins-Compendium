@@ -678,6 +678,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
+# KK_MainGameVR
+- Short description: Adds a series of plugins which adds the option to play the main game of Koikatsu (Story/School mode) with VR.
+- Author(s):         https://github.com/mosirnik
+- More information:  https://github.com/mosirnik/KK_MainGameVR
+
 # KK_MakerAdditions
 - GUID:              `KK_MakerAdditions`
 - Short description: This plugin adds extra features to the character maker. (Adjusting accessories beyond the 100 -100 limit and further movement 0.01 position, 0.1 angle)
