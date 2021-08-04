@@ -1021,6 +1021,11 @@
 - Author(s):         https://www.patreon.com/joan6694
 - More information:  https://www.patreon.com/joan6694
 
+# MoveControllerKOI
+- Short description: This plugin adds a menu to character studio which allows one to rotate multiple FK nodes at the same time and overall makes the job of moving items easier, also one can move character accessories as if they were studio items which makes it to access them than from KKPE.
+- Author(s):         https://github.com/Mantas-2155X, Mikke
+- More information:  https://github.com/Mantas-2155X/MikkePlugins
+
 # Mute In Background
 - Short description: Adds an option to mute a game when it loses focus, i.e. when alt-tabbed.
 - Author(s):         https://github.com/BepInEx
