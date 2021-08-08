@@ -1460,7 +1460,7 @@
 - More information:  N/A
 
 # KK_AdditionalFKNodes
-- Short description: This plugin was added as an addition to BetterPenetration for the purpose of being able to have FK nodes for the toes and the male uncensors. (It's part of the KK_StudioBetterPenetration bundle)
+- Short description: This plugin was added as an addition to BetterPenetration for the purpose of being able to have FK nodes for the toes and the male uncensors (Specifically the BP uncensors). (The plugin is part of the KK_StudioBetterPenetration bundle)
 - Author(s):         https://github.com/Animal42069
 - More information:  https://github.com/Animal42069/BetterPenetration
 
