@@ -497,6 +497,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/KK_AccGotHigh
 
+# KK_AccUndo
+- Short description: This plugin allows for undoing and redoing accessory movement/coloration/rotation/scaling, etc within character maker. (Has options in F1 Plugins menu for customizing Keybinds)
+- Author(s):         https://ux.getuploader.com/koi_util/ (SNW)
+- More information:  https://ux.getuploader.com/koi_util/download/17
+
 # KK_AutoStart
 - Short description: Adds a plugin which will automatically start up a mode when you launch the game or command arguments such as shortcuts for it (Autostart transition to a specific mode can be cancelled by pressing ESC on keyboard during loading or disabling/changing parameters in the plugins menu)
 - Author(s):         https://github.com/IllusionMods
