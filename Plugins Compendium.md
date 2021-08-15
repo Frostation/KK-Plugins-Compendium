@@ -544,6 +544,11 @@
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/BonerStateSync
 
+# KK_ClothColliders
+- Short description: As the name suggests this plugin allows for easily adding cloth physics to clothing and make them interactable with characters. (For this plugin to function properly it needs proper mods that make use of this function)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/Illusion_ClothColliders
+
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         N/A

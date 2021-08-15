@@ -138,6 +138,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
+# KKS_ClothColliders
+- Short description: As the name suggests this plugin allows for easily adding cloth physics to clothing and make them interactable with characters. (For this plugin to function properly it needs proper mods that make use of this function)
+- Author(s):         https://github.com/ManlyMarco
+- More information:  https://github.com/ManlyMarco/Illusion_ClothColliders
+
 # KKS_DynamicBoneEditor
 - Short description: Allows the functionality of adjusting dynamic bone weight for various accessories via material editor in character maker (Mostly for fitting hair among other things)
 - Author(s):         https://github.com/DeathWeasel1337
