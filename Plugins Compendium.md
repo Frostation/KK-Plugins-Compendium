@@ -616,6 +616,11 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
+# KK_TalkFreeCamera
+- Short description: This plugin adds a button to talk scenes with characters within main game that enabled free camera view in them.
+- Author(s):         https://github.com/Mantas-2155X     
+- More information:  https://github.com/Mantas-2155X/KK_TalkFreeCamera
+
 # GamepadSupport
 - GUID:              `GamepadSupport`
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
