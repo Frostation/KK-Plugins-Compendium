@@ -549,6 +549,21 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/Illusion_ClothColliders
 
+# KK_ClothingBlendShape
+- Short description: This plugin adds the option to adjust the amount of squeeze for certain modded items that have implemented this option. (Such as thigh stocking squeeze.)(As mentioned this plugin on its own won't do much unless clothing mods make use of this option.)
+- Author(s):         Nakay
+- More information:  https://twitter.com/nkt6Ilkk900/status/1429792799134609409
+
+# KK_ChaAlphaMask
+- Short description: This plugin attaches the function to add/enable an aplha mask depending on clothing state which the item has been assigned to. (I.E: If the top is on the alpha mask will activate or vice versa)
+- Author(s):         Nakay
+- More information:  https://twitter.com/nkt6Ilkk900/status/1429792799134609409
+
+# KK_CopyChaBodyMat
+- Short description: This plugin copies the body material (Edits/custom textures and the like that have been done) unto clothing items that have part of the body mesh with them. (Currently Works only with some of nakays clothing mod items that is included with the plugin in the for of a zipmod such as the sock/spats dentation items.)
+- Author(s):         Nakay
+- More information:  https://twitter.com/nkt6Ilkk900/status/1429792799134609409
+
 # KK_ClothesLoadOption
 - Short description: Adds the option for one to load specific parts of outfits instead of all of it at once.
 - Author(s):         N/A
