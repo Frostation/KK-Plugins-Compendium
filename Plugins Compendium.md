@@ -719,6 +719,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/MakerAdditions
 
+# KK_MakerRandomPicker
+- Short description: This plugin adds a randomizer button to every category in character maker. (For items,clothing,options etc)
+- Author(s):         https://github.com/Mantas-2155X
+- More information:  https://github.com/Mantas-2155X/MakerRandomPicker
+
 # KK_MakerSearch
 - GUID:              `KK_MakerSearch`
 - Short description: This plugin allows you search items in the Character Maker.
