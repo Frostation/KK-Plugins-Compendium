@@ -264,6 +264,11 @@
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
+# DARLING - Voice Control for Koikatsu
+- Short description: Allows one to use voice commands in H-mode, currently limited but might be expanded upon in the future.
+- Author(s):         https://github.com/Sauceke    
+- More information:  https://www.patreon.com/posts/56009086
+
 # DefaultParamEditor
 - GUID:              `keelhauled.defaultparameditor`
 - Short description: Allows editing default settings for character/scene parameters such as eye blinking or shadow density.
