@@ -895,6 +895,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionSFW
 
+# KK_TwoLut
+- Short description: Adds an additional shader option to studio to change in scene effects and additional buttons so that one doesn't have to use the drop down everytime to change shaders on the fly.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
+
 # KK Uniform Uniforms
 - GUID:              `com.cptgrey.bepinex.uniform`
 - Short description: Let's one make a uniformal outfit color scheme for characters within game.   
@@ -1236,6 +1241,11 @@
 # Shader Change Plugin (KKUSS Includes Unity Standard Shader)
 - Short description: This is a plugin/shader addon which adds a shortcut button (Have to assign it within F1>PLusing Settings) to change the base shaders to the Unity Standard shader (For Lighting Purposes).
   - Not to be mistaken with KKUS they are different mods for different purposes.
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
+# Shadow Quality Settings
+- Short description: Allows one to adjust the shadow that is casted by the character light (Setting can be adjusted in F1>Plugins menu)
 - Author(s):         https://ux.getuploader.com/nHaruka_KK/
 - More information:  https://ux.getuploader.com/nHaruka_KK/
 
