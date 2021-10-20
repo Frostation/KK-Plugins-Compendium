@@ -800,6 +800,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KoikatuGameplayMods
 
+# KK_OBJ Import
+- Short description: Allows one to import a .Obj item into Character Studio which can bet then adjusted with material editor (The mesh you're trying to import needs to have at max only 21845 faces this is due to Unity 5's limitation)
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # KK_PostProcessingEffects
 - Short description: Adds additional post processing options in the F1 Plugins menu (Warning there is known to be some texture Issues with this)
 - Author(s):         https://ux.getuploader.com/nHaruka_KK/
@@ -849,6 +854,11 @@
 - Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
+
+# KK_Treenodenaming
+- Short description: Allows one to rename items in the Workspace view in Character Studio (I.E Adds an additional UI element which can be toggled with L which in turn allows one to rename much more in the tree node view than it was possible before.)
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
 
 # Studio Camera Tweaks
 - GUID:              `StudioCameraTweaks`
@@ -1060,11 +1070,10 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_MoreAccessoryParents
 
-# MoreAccessories
-- GUID:              `com.joan6694.illusionplugins.moreaccessories`
-- Short description: This plugin extends the number of accessories you can have for a character.
-- Author(s):         https://www.patreon.com/joan6694
-- More information:  https://www.patreon.com/joan6694
+# MoreAccessories 2.0
+- Short description: Due to Joan being busy with IRL business MoreAccessories has been updated by a new author and will be done so for the forseeable future.
+- Author(s):         https://github.com/jalil49
+- More information:  https://github.com/jalil49/MoreAccessories
 
 # MoveControllerKOI
 - Short description: This plugin adds a menu to character studio which allows one to rotate multiple FK nodes at the same time and overall makes the job of moving items easier, also one can move character accessories as if they were studio items which makes it to access them than from KKPE.
@@ -1508,6 +1517,12 @@
 - Short description: Lets you fast travel to wherever the characters are located on the school map.
 - Author(s):         N/A
 - More information:  N/A
+
+# MoreAccessories (Download More Accessories 2.0 Instead of this version)
+- GUID:              `com.joan6694.illusionplugins.moreaccessories`
+- Short description: This plugin extends the number of accessories you can have for a character. (Has been put here for the time being due to being no longer compatible with the latest version of KKAPI starting form 1.26)
+- Author(s):         https://www.patreon.com/joan6694
+- More information:  https://www.patreon.com/joan6694
 
 # KK_AdditionalFKNodes
 - Short description: This plugin was added as an addition to BetterPenetration for the purpose of being able to have FK nodes for the toes and the male uncensors (Specifically the BP uncensors). (The plugin is part of the KK_StudioBetterPenetration bundle)
