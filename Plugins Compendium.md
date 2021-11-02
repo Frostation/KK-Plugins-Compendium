@@ -459,7 +459,12 @@
 - GUID:              `com.deathweasel.bepinex.studioimageembed`
 - Short description: This plugin will save .png files from your userdata folder to the scene data so anyone else can load the scene properly without needing the same .png.
 - Author(s):         https://github.com/DeathWeasel1337
-- More information:  https://github.com/DeathWeasel1337/KK_Plugins
+- More information:  https://github.com/DeathWeasel1337/
+
+# Image Loader
+- Short description: This plugin allows one to load pictures within character maker to use as a reference for making characters.(Includes instructions)
+- Author(s):         Ahrimhan 
+- More information:  https://mega.nz/file/OmxE0DRI#gS41bCvQf_JfzbXir24r6epaYiCGpzBby76UN0q0T2s
 
 # Image Series Recorder
 - GUID:              `marco.ImageSeriesRecorder`
