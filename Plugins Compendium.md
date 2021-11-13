@@ -894,6 +894,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioPOV
 
+# KK_StudioMiscSearch
+- Short description: This plugin adds an additional search bar to studio item lists.
+- Author(s):         https://github.com/Mantas-2155X
+- More information:  https://github.com/Mantas-2155X/StudioMiscSearch
+
 # Studio Scene Initial Camera
 - GUID:              `com.gebo.BepInEx.studioinitialcamera`
 - Short description: This plugin attemps to save the last known position of the current active camera in character studio when loading a scene there is an additional "`" button for it's functionality works the same as the 1~0 camera numbers on the keyboard (The added custom camera to the workspace does not save with the scene).
