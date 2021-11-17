@@ -810,6 +810,11 @@
 - Author(s):         https://github.com/NiggoJaecha
 - More information:  On the Koikatsu Discord's mod sharing channel.
 
+# KK_Maker Animate Pose Toggle
+- Short description: Adds a button to the maker side bar which can freeze/unfreeze motion, movement in poses that can be selected within character maker.
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # KK_PostProcessingEffects
 - Short description: Adds additional post processing options in the F1 Plugins menu (Warning there is known to be some texture Issues with this)
 - Author(s):         https://ux.getuploader.com/nHaruka_KK/
