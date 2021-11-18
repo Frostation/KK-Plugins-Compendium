@@ -1454,6 +1454,11 @@
 - Author(s):         Keitaro
 - More information:  N/A (Search the Mod-Sharing Channel for the koikatsu discord server)
 
+# Timeline Loop Extension
+- Short description: Adds the ability to do sectional loops by setting key frames in specific spots for the beginning of the animation and the end. (A shortcut key can be setup to end the loop)
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
 # Title Shortcuts
 - GUID:              `keelhauled.titleshortcuts`
 - Short description: Title menu keyboard shortcuts to open different modes. (For example, press F to open the female editor.)
