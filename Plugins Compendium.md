@@ -766,6 +766,11 @@
 - Author(s):         https://github.com/KoikDaisy
 - More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/
 
+# KK_MoarCamz
+- Short description: Adds the ability to add more camera slot options among a plethora of other handy option for character studio.
+- Author(s):         https://github.com/OrangeSpork/
+- More information:  https://github.com/OrangeSpork/MoarCamz
+
 # KK_MovUrAcc
 - Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
 - Author(s):         https://github.com/Madevil
