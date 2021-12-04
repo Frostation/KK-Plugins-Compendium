@@ -533,6 +533,11 @@
 - Author(s):         Made by Essu and further edited by Deathweasel1337 to have config options.
 - More information:  N/A (Plugin can be acquired via either the HF-Patch or acquiring it within the Illusion/Koikatsu Discord Servers)
 
+# KK_BendUrAcc
+- Short description: Adds the option to Rotate/Scale/Reposition Individual nodes within accessories. (It's limited for accessories that make use of dynamic bones or accessory clothes.)
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/BendUrAcc
+
 # KK Better Penetration
 - GUID:              `animal42069.KKbetterpenetration`
 - Short description: Changes/Adjusts the penetrations animation and what not for the game this pack includes 4 uncensors with their own extra bones to work with this (2 males, 2 females) check link for more detail.
@@ -553,6 +558,11 @@
 - Short description: Can Make Body adjustment and sizes dependant on the characters clothing state for custom body sizes. (Tab is added to the bottom right)
 - Author(s):         https://github.com/Madevil/
 - More information:  https://github.com/Madevil/BonerStateSync
+
+# KK_Character Accessory 
+- Short description: With this plugin one can set a outfit piece as a template when merging/using different coordinates to load items. 
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/CharacterAccessory
 
 # KK_ClothColliders
 - Short description: As the name suggests this plugin allows for easily adding cloth physics to clothing and make them interactable with characters. (For this plugin to function properly it needs proper mods that make use of this function)
@@ -668,6 +678,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/KK_HCameraLight
 
+# KK_HemorrhoidsBuster
+- Short description: This plugin adds the functionality to move/scale/rotate multiple accessories at the same time. (Has a toggle option for the amount/which accessores one wants to edit.)
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/HemorrhoidsBuster
+
 # KK_HideOption
 - Short description: Hides the SideBar Menu within character maker via press of a button (Button in the middle top of the screen)
 - Author(s):         Sabakan (サバカン)        
@@ -766,6 +781,11 @@
 - Author(s):         https://github.com/KoikDaisy
 - More information:  https://github.com/KoikDaisy/KK_MapScreenDeclutter/
 
+# KK_Material Router
+- Short description: In general this plugin adds the function to copy materials which need to be edited within a .Json. (Same funciton as Copy Material option within material editor)
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/MaterialRouter
+
 # KK_MoarCamz
 - Short description: Adds the ability to add more camera slot options among a plethora of other handy option for character studio.
 - Author(s):         https://github.com/OrangeSpork/
@@ -787,6 +807,11 @@
 - Short description: Adds a custom scenario to the main game akin with quests
 - Author(s):         https://github.com/ManlyMarco    
 - More information:  https://www.patreon.com/posts/kk-pantyfairy-v1-50367938
+
+# KK_Parent Switch
+- Short description: This plugin add the ability to switch accessory parents without having to re-position each individual accessory.
+- Author(s):         https://github.com/Madevil/
+- More information:  https://github.com/Madevil/
 
 # KK_PantyRobber
 - Short description: During School Conversation there will be a button prompt to steal the girls panty. 
