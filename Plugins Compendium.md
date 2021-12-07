@@ -895,6 +895,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
 
+# KK_StudioKeyBinds
+- Short description: KK_Studio Key Binds lets the user change the defualt studio keybinds to something else or to re-arange them to ones personal preference. (Keys can be changed within the F1 Plugins menu)
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # KK_Treenodenaming
 - Short description: Allows one to rename items in the Workspace view in Character Studio (I.E Adds an additional UI element which can be toggled with L which in turn allows one to rename much more in the tree node view than it was possible before.)
 - Author(s):         https://github.com/NiggoJaecha
