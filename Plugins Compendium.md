@@ -889,6 +889,11 @@
 - Author(s):         https://github.com/Madevil
 - More information:  https://github.com/Madevil/KK_SMAP
 
+# KK_Softer Self Shadowing
+- Short description: This plugin adds the option to further customize shadows cast by (Characters/Additional Light Sources) and to make them softer.
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
 # KK_StudioAccessoryNames
 - GUID:              `KK_StudioAccessoryNames`
 - Short description: Replaces the characters accessory "slot 01-Slot ##" with the actual accessory names in studio. Example: 'Slot 01' to '01 Headband'
