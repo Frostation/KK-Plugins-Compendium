@@ -971,6 +971,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_UniformUniforms#kk_uniformuniforms
 
+# KK_Video Plate
+- Short description: KK_VideoPlate allows the function to add videos (Supported formats) unto studio items for usage and a variety of keyboard controls.
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # KK_VMDPlayPlugin
 - Short description: Allows one to play VMD motions from MMD in koikatsu.
 - Author(s):         A japanenese programmer (Not much detail is known)
