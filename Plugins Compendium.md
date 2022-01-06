@@ -1482,6 +1482,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/TranslationTools
 
+# TitiYureEditor
+- Short description: Allows for on the fly adjustment of the breasts Dynamic Bones (Bust01,02,03) (Could be used in character studio for animations, motions... etc)
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
 # Timeline
 - GUID:              `com.joan6694.illusionplugins.timeline`
 - Short description: Timeline is an animation plugin in which you can make your own animations.
