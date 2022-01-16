@@ -965,6 +965,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KK_Plugins
 
+# KK_UncensorDetails
+- Short description: Uncensor Details allows the user to add additional details (Textures) to characters uncensors within studio via option toggles under "current state"
+- Author(s):         Keitaro
+- More information:  https://www.patreon.com/KeiPlugins
+
 # KK Uniform Uniforms
 - GUID:              `com.cptgrey.bepinex.uniform`
 - Short description: Let's one make a uniformal outfit color scheme for characters within game.   
