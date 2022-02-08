@@ -960,6 +960,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/IllusionSFW
 
+# KK_ShaderSwapper
+- Short description: Allows for an instant swap of shaders to vanilla pluse with only one button (Further tweaking may be required such as specular and other options.) (The button can also be configured within F1>Plugins menu)
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
+
 # KK_TwoLut
 - Short description: Adds an additional shader option to studio to change in scene effects and additional buttons so that one doesn't have to use the drop down everytime to change shaders on the fly.
 - Author(s):         https://github.com/IllusionMods
