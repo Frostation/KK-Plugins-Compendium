@@ -965,6 +965,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KK_Plugins
 
+# KK_Studio select new object on copy
+- With this plugin when an item is copied in studio it will automatically select the new item, also works for batch copies.
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # KK_TwoLut
 - Short description: Adds an additional shader option to studio to change in scene effects and additional buttons so that one doesn't have to use the drop down everytime to change shaders on the fly.
 - Author(s):         https://github.com/IllusionMods
