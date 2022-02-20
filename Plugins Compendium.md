@@ -922,6 +922,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/StudioExtraMoveAxis
 
+# KK_Pose Tools
+- Short description: The Pose Tools in essence allows the user to save Pose data as a new format with the additional settings such as skirt FK's/Expressions/Joint Adjustment among other things asa a .png file which can be drag and dropped/loaded onto your character.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
+
 # KK_StudioCharaSort
 - Short description: It lets one specify a default sorting for character and coordinate lists in Studio.
 - Author(s):         https://github.com/Madevil/
