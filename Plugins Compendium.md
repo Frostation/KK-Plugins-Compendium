@@ -678,6 +678,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/KK_HCameraLight
 
+# KK_HeightAdjustUI 
+- Short description: A Quality of Life plugin in which it takes the height slider into account when posing characters and swapping them out so that they are 'Grounded' properly and not clip with the ground. (This plugin adds a slider to the FK tab in studio in which it can be adjusted.)
+- Author(s):         https://github.com/OrangeSpork/FKHeightAdjustUI
+- More information:  https://github.com/OrangeSpork/FKHeightAdjustUI#readme
+
 # KK_HemorrhoidsBuster
 - Short description: This plugin adds the functionality to move/scale/rotate multiple accessories at the same time. (Has a toggle option for the amount/which accessores one wants to edit.)
 - Author(s):         https://github.com/Madevil/
