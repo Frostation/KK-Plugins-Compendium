@@ -20,8 +20,8 @@
 
 # KK_AAAPK, Additional Accessory Advanced Parent Knockoff, Additional Accessory controls
 - Short description: Adds the ability to attach any bone node from an accessory (if it possesses one) to the character within the game (I.E could attach accessories by their tail bone if they have any such as attaching a ponytail by it's end to the head) or to add accessories on top of other accessories as bone parents, among other things.
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/KK_AAAPK
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # Additional Skin Effects
 - GUID:              `Marco.SkinEffects`
@@ -504,8 +504,8 @@
 
 # KK_AccGotHigh (This same function was added to SliderHighlight)
 - Short description: Highlights Accessories that are hovered over via cursor within the charactermaker of the game. (Useful for identifying where some accessories are positions where there are duplicates)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/KK_AccGotHigh
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_AccUndo
 - Short description: This plugin allows for undoing and redoing accessory movement/coloration/rotation/scaling, etc within character maker. (Has options in F1 Plugins menu for customizing Keybinds)
@@ -519,8 +519,8 @@
 
 # KK_AccStateSync
 - Short description: Plugin which gives on the option to have accessories on or off during different clothing states (On/Half-on/Off)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/KK_AccStateSync
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_ActionSubMenuScroll
 - Short description: Adds the abillity to scroll through the H-List options in H mode (Keyboard arrow keys can also be used as well)
@@ -535,8 +535,8 @@
 
 # KK_BendUrAcc
 - Short description: Adds the option to Rotate/Scale/Reposition Individual nodes within accessories. (It's limited for accessories that make use of dynamic bones or accessory clothes.)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/BendUrAcc
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK Better Penetration
 - GUID:              `animal42069.KKbetterpenetration`
@@ -556,13 +556,13 @@
 
 # KK_BonerStateSync
 - Short description: Can Make Body adjustment and sizes dependant on the characters clothing state for custom body sizes. (Tab is added to the bottom right)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/BonerStateSync
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_Character Accessory 
 - Short description: With this plugin one can set a outfit piece as a template when merging/using different coordinates to load items. 
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/CharacterAccessory
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_ClothColliders
 - Short description: As the name suggests this plugin allows for easily adding cloth physics to clothing and make them interactable with characters. (For this plugin to function properly it needs proper mods that make use of this function)
@@ -591,11 +591,11 @@
 
 # KK_CumOnOver
 - Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/KK_CumOnOver
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_DarknessWithStrawberryFlavor
-- Short description: Will enabled Darkness Mode support for unsupported characters. (Normal H Sounds will be played during the mode since there are no special Dialogue for unsupported personalities)
+- Short description: Will enable Darkness Mode support for unsupported characters. (Normal H Sounds will be played during the mode since there are no special Dialogue for unsupported personalities)
 - Author(s):         N/A
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
 
@@ -685,8 +685,8 @@
 
 # KK_HemorrhoidsBuster
 - Short description: This plugin adds the functionality to move/scale/rotate multiple accessories at the same time. (Has a toggle option for the amount/which accessores one wants to edit.)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/HemorrhoidsBuster
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_HideOption
 - Short description: Hides the SideBar Menu within character maker via press of a button (Button in the middle top of the screen)
@@ -718,8 +718,8 @@
 
 # KK_Jetpack
 - Short description: API plugin base for future plugins such as KKAPI or GeboAPI
-- Author(s):         https://github.com/Madevil
-- More information:  N/A (Will be added soon)
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_LiveStageAudience
 - GUID:              `KK_LiveStageAudience`
@@ -788,8 +788,8 @@
 
 # KK_Material Router
 - Short description: In general this plugin adds the function to copy materials which need to be edited within a .Json. (Same funciton as Copy Material option within material editor)
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/MaterialRouter
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_MoarCamz
 - Short description: Adds the ability to add more camera slot options among a plethora of other handy option for character studio.
@@ -798,8 +798,8 @@
 
 # KK_MovUrAcc
 - Short description: Allows to move accessory slot positions within maker or to delete unused slots made via MoreAccessories plugin.
-- Author(s):         https://github.com/Madevil
-- More information:  https://github.com/Madevil/KK_MovUrAcc
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # Night Darkener
 - GUID:              `Marco.NightDarkener`
@@ -815,8 +815,8 @@
 
 # KK_Parent Switch
 - Short description: This plugin add the ability to switch accessory parents without having to re-position each individual accessory.
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_PantyRobber
 - Short description: During School Conversation there will be a button prompt to steal the girls panty. 
@@ -891,8 +891,8 @@
 
 # KK_SMAP
 - Short description: A plugin in which can be used to simulate more accessory Parents out of a list of existing bones for the base Koi body.
-- Author(s):         https://github.com/Madevil
-- More information:  https://github.com/Madevil/KK_SMAP
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_Softer Self Shadowing
 - Short description: This plugin adds the option to further customize shadows cast by (Characters/Additional Light Sources) and to make them softer.
@@ -934,8 +934,8 @@
 
 # KK_StudioCharaSort
 - Short description: It lets one specify a default sorting for character and coordinate lists in Studio.
-- Author(s):         https://github.com/Madevil/
-- More information:  https://github.com/Madevil/Port_StudioCharaSort
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # Studio MultiSelect Chara
 - GUID:              `com.gebo.BepInEx.studiomultiselectchara`
@@ -1578,6 +1578,11 @@
 - Short description: An expansive tool which allows to make custom VN like/Game like scenarios within Koikatsu (Check the mega link for more info and tutorials)
 - Author(s):         Keitaro
 - More information:  https://mega.nz/#F!oiB2wAQK!ojGIzlAN-1B-263uUDEalQ
+
+# "Whatever the fuck" plugin 
+- Short description: This plugin allows users to turn any clothing item (From the clothing category) into an accessory clothing item.
+- Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
+- More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # What are you saying?
 - Short description: Renders/Makes all text useless and turns them into giberrish. (Please do not install unless you intentionally want to do so for a joke.)
