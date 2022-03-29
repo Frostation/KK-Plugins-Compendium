@@ -287,7 +287,7 @@
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
 # DisplayOfThumbnails
-- Short description: Adjusts/Enlarges the amount of thumbnails shown on screen in character maker at a given time in the form of a button on top of the screen.
+- Short description: Adjusts/Enlarges the amount of thumbnails shown on screen in character maker at a given time in the form of a button on top of the screen. (Can be indicated by the blue box icon in character maker on the top of the screen, have to press it to activate/deactivate)
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
 
