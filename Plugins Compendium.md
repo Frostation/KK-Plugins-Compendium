@@ -1029,16 +1029,14 @@
 - More information:  https://github.com/KarilChan/KKHandyPlugin
 
 # KKPE
-- GUID:              `com.joan6694.kkplugins.kkpe`
 - Short description: KKPE is a mod that adds alternative (and more precise) controls to IK for your characters.
-- Author(s):         https://www.patreon.com/joan6694
-- More information:  https://www.patreon.com/joan6694
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/HSPlugins
 
 # KKUS
-- GUID:              `com.joan6694.illusionplugins.kkus`
 - Short description: This mod is a compilation of mini mods that aim to increase the quality of life in the main game and CharaStudio.
-- Author(s):         https://www.patreon.com/joan6694
-- More information:  https://www.patreon.com/joan6694
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/HSPlugins
 
 # Koikatsu: Become Trap
 - GUID:              `marco.becometrap`
@@ -1171,10 +1169,9 @@
 - More information:  https://github.com/BepInEx/BepInEx.Utility
 
 # NodesContraints
-- GUID:              `com.joan6694.illusionplugins.nodesconstraints`
 - Short description: This mod allows the user to link objects together that shouldn't be linkable using the vanilla way.
-- Author(s):         https://www.patreon.com/joan6694
-- More information:  https://www.patreon.com/joan6694
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/HSPlugins
 
 # Null Checks
 - GUID:              `KK_Fix_NullChecks`
@@ -1513,10 +1510,9 @@
 - More information:  https://ux.getuploader.com/nHaruka_KK/
 
 # Timeline
-- GUID:              `com.joan6694.illusionplugins.timeline`
 - Short description: Timeline is an animation plugin in which you can make your own animations.
-- Author(s):         https://www.patreon.com/joan6694
-- More information:  https://www.patreon.com/joan6694
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/HSPlugins
 
 # TimelineVMDSync
 - Short description: A tool to assist timeline users and animators alike for streamlining the process of some cameras and motions via using VMD/Timeline interchangebly to make a combination of animations.
@@ -1571,8 +1567,8 @@
 
 # Video Export
 - Short description: Video and image sequence recorder with which one can make a multitude of things from videos/gifs/webms... etc.
-- Author(s):         https://www.patreon.com/joan6694
-- More information:  https://www.patreon.com/joan6694
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/HSPlugins
 
 # VNGE (VN Game Engine)
 - Short description: An expansive tool which allows to make custom VN like/Game like scenarios within Koikatsu (Check the mega link for more info and tutorials)
@@ -1617,6 +1613,18 @@
 - Short description: Lets you fast travel to wherever the characters are located on the school map.
 - Author(s):         N/A
 - More information:  N/A
+
+# KKPE (Old)
+- GUID:              `com.joan6694.kkplugins.kkpe`
+- Short description: KKPE is a mod that adds alternative (and more precise) controls to IK for your characters.
+- Author(s):         https://www.patreon.com/joan6694
+- More information:  https://www.patreon.com/joan6694
+
+# KKUS (Old)
+- GUID:              `com.joan6694.illusionplugins.kkus`
+- Short description: This mod is a compilation of mini mods that aim to increase the quality of life in the main game and CharaStudio.
+- Author(s):         https://www.patreon.com/joan6694
+- More information:  https://www.patreon.com/joan6694
 
 # MoreAccessories (Download More Accessories 2.0 Instead of this version)
 - GUID:              `com.joan6694.illusionplugins.moreaccessories`
@@ -1689,7 +1697,24 @@
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/
 
-# KK_PerfectPlan
+# KK_PerfectPlan 
 - Short description: Disables Interactions with variout points of the game, like turning one into a pseudo ghost.
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# NodesContraints (Old)
+- GUID:              `com.joan6694.illusionplugins.nodesconstraints`
+- Short description: This mod allows the user to link objects together that shouldn't be linkable using the vanilla way.
+- Author(s):         https://www.patreon.com/joan6694
+- More information:  https://www.patreon.com/joan6694
+
+# Timeline (Old)
+- GUID:              `com.joan6694.illusionplugins.timeline`
+- Short description: Timeline is an animation plugin in which you can make your own animations.
+- Author(s):         https://www.patreon.com/joan6694
+- More information:  https://www.patreon.com/joan6694
+
+# Video Export (Old)
+- Short description: Video and image sequence recorder with which one can make a multitude of things from videos/gifs/webms... etc.
+- Author(s):         https://www.patreon.com/joan6694
+- More information:  https://www.patreon.com/joan6694
