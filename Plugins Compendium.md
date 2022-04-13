@@ -1131,6 +1131,11 @@
 - Author(s):         https://github.com/BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.Utility
 
+# MMDD (Miku Miku Dance Director)
+- Short description: This is a plugin to create MMD videos, it has the added ability to adjust keyframes,sync amongst a number of other options.
+- Author(s):         https://www.patreon.com/c360plugins
+- More information:  https://www.patreon.com/posts/mmd-director-pv-55604378
+
 # Moan Softly When I H You
 - Short description: A small plugin for Koikatu and Koikatsu Party that changes volume of breathing and moaning in H scenes.
 - Author(s):         https://github.com/ManlyMarco
