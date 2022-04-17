@@ -589,6 +589,11 @@
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/download/94
 
+# KK_Clothes to Accessories
+- Short description: This plugin allows one to make clothing items from the clothing tab into accessories.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
+
 # KK_CumOnOver
 - Short description: Allows the addition of semen over shoes/accessories/socks/gloves. (Might need some Material Editor Adjustments)
 - Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
@@ -909,6 +914,11 @@
 - Short description: KK_Studio Key Binds lets the user change the defualt studio keybinds to something else or to re-arange them to ones personal preference. (Keys can be changed within the F1 Plugins menu)
 - Author(s):         https://github.com/NiggoJaecha
 - More information:  On the Koikatsu Discord's mod sharing channel.
+
+# KK_Studio Window Resize
+- Short description: Makes studio lists such as the ones for items and animations for example larger so that more items are viewable.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
 
 # KK_Treenodenaming
 - Short description: Allows one to rename items in the Workspace view in Character Studio (I.E Adds an additional UI element which can be toggled with L which in turn allows one to rename much more in the tree node view than it was possible before.)
