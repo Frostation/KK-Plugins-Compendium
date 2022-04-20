@@ -103,10 +103,10 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
-# Boop
-- Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce
-- Author(s):         Essu
-- More information:  Can be acquired through specific plugin packs or here https://www.dropbox.com/s/vyiwger8gc8xi9w/Boop.dll
+# Boop V2
+- Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce (V2 now has the added ability to have hair and items with dynamic bones to jiggle as well)
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
 
 # Breastmilk
 - Short description: Adds a button/option to display breastmilk during H-Scenes (Ctrl+B) when femaleguage reaches climax. (Milk thins down overtime)
@@ -819,7 +819,7 @@
 - More information:  https://www.patreon.com/posts/kk-pantyfairy-v1-50367938
 
 # KK_Parent Switch
-- Short description: This plugin add the ability to switch accessory parents without having to re-position each individual accessory.
+- Short description: This plugin adds the ability to switch accessory parents without having to re-position each individual accessory.
 - Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
 - More information:  N/A (Can be downloaded from their Mega: https://mega.nz/file/eKBThICL#qFuGpCyfkJ24C-a1N_Nhzl70cW-iuhVqWOTsI528vnY Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
@@ -1618,6 +1618,11 @@
 - More information:  N/A Can be searched witihn the Koikatsu Discord Server.
 
 ## List of Plugins Either too old,incompatible,outsourced,obsoleted, These plugins are not reccomended for installation and have been put here for archiving which include:
+
+# Boop
+- Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce
+- Author(s):         Essu
+- More information:  Can be acquired through specific plugin packs or here https://www.dropbox.com/s/vyiwger8gc8xi9w/Boop.dll
 
 # KK_Archetypes (Does not work well with the latest version of bepinex)
 - Short description: Makes it so that you can favorite different parts of the body and recombine them into new characters.
