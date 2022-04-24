@@ -620,6 +620,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
 
+# KK_EditFangs
+- Short description: Enables customization for the vanilla fangs in character maker, (New sliders have been added under the "Mouth" category.)
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # KK_EroPower
 - Short description: Sets Limit to how many times once can do H within a scene before it forces one out of it. (Can be changed via plugins menu)
 - Author(s):         N/A
