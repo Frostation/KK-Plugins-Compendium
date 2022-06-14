@@ -1326,6 +1326,11 @@
 - Author(s):         https://blog.maki0419.com/search/label/Koikatu
 - More information:  https://blog.maki0419.com/2020/06/koikatu-save-load-compression.html
 
+# SB3UGS (Sexy Beach 3 Utillity)
+- Short description: Utillity tool used to make mods and adjust/check the framework of unity files for illusionsoft games.
+- Author(s):         https://gitea.com/enimaroah
+- More information:  https://gitea.com/enimaroah/Sb3UGS/releases
+
 # Screenshot Manager
 - GUID:              `com.bepis.bepinex.screenshotmanager`
 - Short description: Creates screenshots based on settings. Can create screenshots of much higher resolution than what the game is running at. 
