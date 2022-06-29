@@ -579,6 +579,11 @@
 - Author(s):         Nakay
 - More information:  https://twitter.com/nkt6Ilkk900/status/1429792799134609409
 
+# KK_CharaLightDisabler
+- Short description: This plugin makes it so that one could disable Character Lights in maps easily with a simple button but a specific condition is needed I.E maps need to have been tagged with this specific modification so that when used it disabled the character lighting.
+- Author(s):         https://github.com/KoikDaisy
+- More information:  https://github.com/KoikDaisy/KK_CharaLightDisabler/releases
+
 # KK_CopyChaBodyMat
 - Short description: This plugin copies the body material (Edits/custom textures and the like that have been done) unto clothing items that have part of the body mesh with them. (Currently Works only with some of nakays clothing mod items that is included with the plugin in the for of a zipmod such as the sock/spats dentation items.)
 - Author(s):         Nakay
@@ -1264,6 +1269,11 @@
 - Short description: Provides an option to generate random characters in the character maker.
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# RandomGirlReplacer
+- Short description: This Plugins allows one to replace multiple characters within a scene with ones desired favorite character.
+- Author(s):          https://www.patreon.com/KeiPlugins
+- More information:   https://mega.nz/folder/dnRwXQ4T#PmaAm9WYJ6IMelXe_wUHXw
 
 # Random Name Provider
 - GUID:              `com.illusionmods.translationtools.random_name_provider`
