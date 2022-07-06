@@ -1726,6 +1726,7 @@
 - Short description: Adds a LewdCrest to Club members and internal finish animations in HScenes.
 - Author(s):         picolet21
 - More information:  http://uppervolta-3d.net/illu/upload.php
+- Extra Textures:    https://www.patreon.com/posts/shoujo-v2-0-for-53621011 (Warning may lag the game alot.)
 
 # KK_MoveMapFromCharaList (Obsolted by WarpToCharacters)
 - Short description: Allows for teleportation to a character within the schoolmap in the maing game.
