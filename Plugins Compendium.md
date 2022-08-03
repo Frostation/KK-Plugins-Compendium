@@ -764,6 +764,11 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/MakerAdditions
 
+# KK_MakerCameraPresets
+- Short description: Maker Camera Presets allows the user to make camera presets in character maker and switch between said camera pieces on the fly, same as character studio. (Has a bunch of options for customization within maker.)
+- Author(s):         N. Jächa
+- More information:  N/A (Search the Mod-Sharing Channel for the koikatsu discord server)
+
 # KK_MakerRandomPicker
 - Short description: This plugin adds a randomizer button to every category in character maker. (For items,clothing,options etc)
 - Author(s):         https://github.com/Mantas-2155X
