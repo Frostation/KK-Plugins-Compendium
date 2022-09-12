@@ -1063,6 +1063,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/HSPlugins
 
+# KKUTS_Tessfix
+- Short description: This plugin fixes the tesselation issue where it would make a mirage and multiple copies of the character in maker and give a visual glitch.
+- Author(s):         https://ux.getuploader.com/nHaruka_KK/
+- More information:  https://ux.getuploader.com/nHaruka_KK/
+
 # Koikatsu: Become Trap
 - GUID:              `marco.becometrap`
 - Short description: Mod that adds a new setting to male character maker - "Character is a trap". 
