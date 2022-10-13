@@ -564,6 +564,11 @@
 - Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
 - More information:  N/A (Can be downloaded from their Mega: https://mega.nz/folder/LaxGWSZZ#8RuhvTFig50K-6LXdPdYfg Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
+# KK_Character Morpher
+- Short description: Adds a set of new sliders which encompass a majority of the sliders already existing in the game for easier adjustment Whether ABMX or Normal Sliders. (This is good for an overall approach but for a more detailed one they would still need to adjust individual sliders like usual.)
+- Author(s):         https://github.com/Prolo1
+- More information:  https://github.com/Prolo1/Character-Morpher/releases/tag/V0.2.2
+
 # KK_ClothColliders
 - Short description: As the name suggests this plugin allows for easily adding cloth physics to clothing and make them interactable with characters. (For this plugin to function properly it needs proper mods that make use of this function)
 - Author(s):         https://github.com/ManlyMarco
@@ -579,10 +584,10 @@
 - Author(s):         Nakay
 - More information:  https://twitter.com/nkt6Ilkk900/status/1429792799134609409
 
-# KK_CharaLightDisabler
-- Short description: This plugin makes it so that one could disable Character Lights in maps easily with a simple button but a specific condition is needed I.E maps need to have been tagged with this specific modification so that when used it disabled the character lighting.
+# KK_MapUtils (Replacement of CharalightDisabler)
+- Short description: This plugin makes it so that one could disable Character Lights in maps easily with a simple button/automatically but a specific condition is needed I.E maps need to have been tagged with this specific modification so that when used it disabled the character lighting.
 - Author(s):         https://github.com/KoikDaisy
-- More information:  https://github.com/KoikDaisy/KK_CharaLightDisabler/releases
+- More information:  https://github.com/KoikDaisyGit/KK_MapUtils
 
 # KK_CopyChaBodyMat
 - Short description: This plugin copies the body material (Edits/custom textures and the like that have been done) unto clothing items that have part of the body mesh with them. (Currently Works only with some of nakays clothing mod items that is included with the plugin in the for of a zipmod such as the sock/spats dentation items.)
@@ -1691,6 +1696,11 @@
 - Short description: Adds an icon to the game to use to open the map feature.
 - Author(s):         N/A
 - More information:  https://ux.getuploader.com/56e4_xXVv/
+
+# KK_CharaLightDisabler (Old)
+- Short description: This plugin makes it so that one could disable Character Lights in maps easily with a simple button but a specific condition is needed I.E maps need to have been tagged with this specific modification so that when used it disabled the character lighting.
+- Author(s):         https://github.com/KoikDaisy
+- More information:  https://github.com/KoikDaisy/KK_CharaLightDisabler/releases
 
 # KK_Crawl
 - Short description: To be able to move while crouched/crawling
