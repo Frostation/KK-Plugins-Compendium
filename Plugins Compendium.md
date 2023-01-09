@@ -103,6 +103,11 @@
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/BepisPlugins
 
+# BlendshapeCreator
+- Short description: Blendshape Creator is a new plugin tool for koikatus which allows the user to extract clothing meshes and other type of meshes from the game and to adjust them within 3D software tools, in which the adjusted mesh will be targeted as a blendshape (Changing shape from one form to another) (Detailed guide on how to use within the koikatsu discord server.)
+- Author(s):         Shalty#6039
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # Boop V2
 - Short description: Enables Jiggle Physics when one hovers their mouse of the chest or butt they bounce (V2 now has the added ability to have hair and items with dynamic bones to jiggle as well)
 - Author(s):         https://github.com/IllusionMods
