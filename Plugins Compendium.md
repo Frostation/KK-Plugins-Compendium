@@ -945,6 +945,12 @@
 - Author(s):         https://github.com/Mantas-2155X
 - More information:  https://github.com/Mantas-2155X/StudioAccessoryNames
 
+# KK_StudioFKHider
+- Short description: Allows the user to toggle parts of the characters FK nodes without actually disabling them it just 'Hides' them for easier time posting stuff.
+- Author(s):         N/A (Was commisioned)
+- More information:  N/A
+
+
 # KK_StudioKeyBinds
 - Short description: KK_Studio Key Binds lets the user change the defualt studio keybinds to something else or to re-arange them to ones personal preference. (Keys can be changed within the F1 Plugins menu)
 - Author(s):         https://github.com/NiggoJaecha
