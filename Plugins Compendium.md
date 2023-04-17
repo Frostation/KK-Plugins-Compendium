@@ -746,6 +746,11 @@
 - Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
 - More information:  N/A (Can be downloaded from their Mega: https://mega.nz/folder/LaxGWSZZ#8RuhvTFig50K-6LXdPdYfg Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
+# KK_LightingTweaks
+- Short description: Forces studio lights to be forcepixel instead of auto so that Vanilla plus shaders can have more than 1 light affect a character/item.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
+
 # KK_LiveStageAudience
 - GUID:              `KK_LiveStageAudience`
 - Short description: Adds the ability to change the amount of present audience members in the "Live Stage".
@@ -907,6 +912,11 @@
 - Short description: Disables confirmation screens for loading Clothing,Characters etc
 - Author(s):         Sabakan (サバカン)        
 - More information:  Look for sabakans plugins within the Koikatsu Discord in the #mod-sharing channel.
+
+# KK_Save_PostProcessingEffects
+- Short description: Adds a plugin which allows users to save different post processing effect presets, the default shortcut is Alt+D.
+- Author(s):         Shalty#6039
+- More information:  On the Koikatsu Discord's mod sharing channel.
 
 # KK_SexFaces
 - Short description: A plugin in which you can set/register specific faces expressions for your character during H-Scenes within character maker by using the expression tools on the right side bar of the screen and registering them within the tool.
