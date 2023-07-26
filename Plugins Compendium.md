@@ -97,6 +97,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_BetterColorPicker
 
+# BepInEx Splashscreen
+- Short description: Adds a splash screen to the game start up letting the user know how the progress of their plugins and mods loading is going.
+- Author(s):         https://github.com/BepInEx
+- More information:  https://github.com/BepInEx/BepInEx.SplashScreen#readme
+
 # BGM Loader
 - GUID:              `com.bepis.bgmloader`
 - Short description: Loads custom BGMs and clips played on game startup.
@@ -747,7 +752,7 @@
 - More information:  N/A (Can be downloaded from their Mega: https://mega.nz/folder/LaxGWSZZ#8RuhvTFig50K-6LXdPdYfg Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
 # KK_LightingTweaks
-- Short description: Forces studio lights to be forcepixel instead of auto so that Vanilla plus shaders can have more than 1 light affect a character/item.
+- Short description: Forces studio lights to be forcepixel instead of auto so that Vanilla plus shaders can have more than 1 light affect a character/item. 
 - Author(s):         https://github.com/IllusionMods
 - More information:  https://github.com/IllusionMods/KK_Plugins
 
