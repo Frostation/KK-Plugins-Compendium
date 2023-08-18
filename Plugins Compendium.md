@@ -751,6 +751,11 @@
 - Author(s):         (https://github.com/Madevil/) (https://twitter.com/madevilmeowmeow)
 - More information:  N/A (Can be downloaded from their Mega: https://mega.nz/folder/LaxGWSZZ#8RuhvTFig50K-6LXdPdYfg Check their twitter for newer versions) (Be warned that if you run into problems due to this pack you should install the latest HF-Patch.)
 
+# KK_KKPRimController
+- Short description: A Plugin which lets the user change the Vanilla Plus's specific Rim Option "KKPRim" with a dedicated menu which can be toggled on with ctrl+k (Works on objects and characters that use the Vanilla+ shader), to download the plugin one should visit the koikatsu discord server and check tehr relative modding channel.
+- Author(s):         https://github.com/RikkiBalboa
+- More information:  https://github.com/RikkiBalboa/Koikatsu-Plugins
+
 # KK_LightingTweaks
 - Short description: Forces studio lights to be forcepixel instead of auto so that Vanilla plus shaders can have more than 1 light affect a character/item. 
 - Author(s):         https://github.com/IllusionMods
@@ -928,6 +933,11 @@
 - Author(s):         https://github.com/Sauceke
 - More information:  https://github.com/Sauceke/KK_SexFaces
 
+# KK_ShadowColorSwapper
+- Short description: A Plugin which lets the user change the object/characters shadow colors at any time with a press of a button, to download the plugin one should visit the koikatsu discord server and check tehr relative modding channel.
+- Author(s):         https://github.com/RikkiBalboa
+- More information:  https://github.com/RikkiBalboa/Koikatsu-Plugins
+
 # SliderHighlight
 - GUID:              `SliderHighlight`
 - Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
@@ -954,7 +964,6 @@
 - Short description: Allows the user to toggle parts of the characters FK nodes without actually disabling them it just 'Hides' them for easier time posting stuff.
 - Author(s):         N/A (Was commisioned)
 - More information:  N/A
-
 
 # KK_StudioKeyBinds
 - Short description: KK_Studio Key Binds lets the user change the defualt studio keybinds to something else or to re-arange them to ones personal preference. (Keys can be changed within the F1 Plugins menu)
