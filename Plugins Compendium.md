@@ -938,6 +938,11 @@
 - Author(s):         https://github.com/RikkiBalboa
 - More information:  https://github.com/RikkiBalboa/Koikatsu-Plugins
 
+# KK_Studio Overlay Manager
+- Short description: Allows folk to change overlays for characters within studio, has to be toggled within Anim>Current State>Overlays, Manage overlays
+- Author(s):         Shalty#6039
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # SliderHighlight
 - GUID:              `SliderHighlight`
 - Short description: A plugin in which it adds highlights to selected sliders in character maker within Koikatsu so that one can tell which part of the body they are editing. (Check Requirements) (It not also highlights accessories as well)
