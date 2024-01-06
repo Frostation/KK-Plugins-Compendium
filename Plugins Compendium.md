@@ -938,6 +938,11 @@
 - Author(s):         https://github.com/RikkiBalboa
 - More information:  https://github.com/RikkiBalboa/Koikatsu-Plugins
 
+# KK_Stiletto
+- Short description: Plugin allows for adjustment of heels for shoes with heels which allows users to save settings to adjust the characters to accomodate for high heel shoes.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/Stiletto
+
 # KK_Studio Overlay Manager
 - Short description: Allows folk to change overlays for characters within studio, has to be toggled within Anim>Current State>Overlays, Manage overlays
 - Author(s):         Shalty#6039
@@ -1131,6 +1136,11 @@
 - Author(s):         https://github.com/Keelhauled
 - More information:  https://github.com/Keelhauled/KeelPlugins
 
+# Light Toggler
+- Short description: Adds a bunch of QoL adjustments to modlights in charastudio such as toggle adjustments/saving certain states of activity etc.
+- Author(s):         Starstorm (csillagvihar)
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # List Override
 - GUID:              `com.deathweasel.bepinex.listoverride`
 - Short description: Allows you to override vanilla list files. Comes with some overrides that enable half off state for some vanilla pantyhose.
@@ -1199,6 +1209,11 @@
 - Short description: MaterialEditor is a plugin that allows you to edit many properties of objects that aren't usually accessible in game.      
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://github.com/DeathWeasel1337/KK_Plugins
+
+# Mass Shader Editor
+- Short description: Adds a tool that allows for a mass change of properties for the shaders of items I.E (Editing certain properties for shaders such as Skin/Main_Item/Hair etc)
+- Author(s):         Starstorm (csillagvihar)
+- More information:  On the Koikatsu Discord's mod sharing channel.
 
 # Message Center
 - GUID:              `com.bepis.messagecenter`
