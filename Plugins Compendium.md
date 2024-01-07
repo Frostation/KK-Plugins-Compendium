@@ -70,6 +70,11 @@
 - Author(s):         https://github.com/DeathWeasel1337
 - More information:  https://www.patreon.com/posts/44708282
 
+# Axis Unlocker
+- Short description: Makes the Manipulate Axis Size and movement speed maximums and minimums configurable (for very tiny or very large scenes) Within charastudio, Adds a shortcut and a bunch of other gimmicks.
+- Author(s):         Starstorm (csillagvihar)
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
 # BepInEx
 - Short description: Unity Plugin Framework to be able to mod unity games.
 - Author(s):         https://github.com/BepInEx
@@ -867,6 +872,11 @@
 - Short description: During School Conversation there will be a button prompt to steal the girls panty. 
 - Author(s):         N/A       
 - More information:  http://uppervolta-3d.net/illu/upload.php?gal=0
+
+# KK_PictureInPicture
+- Short description: Plugin that adds small windows to the game that can display an Image or render a preview of a camera (Studio only).
+- Author(s):         https://github.com/NiggoJaecha
+- More information:  https://github.com/NiggoJaecha/PictureInPicture
 
 # KK_Pregnancy
 - GUID:              `KK_Pregnancy`
