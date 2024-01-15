@@ -935,7 +935,12 @@
 
 # KK_Save_PostProcessingEffects
 - Short description: Adds a plugin which allows users to save different post processing effect presets, the default shortcut is Alt+D.
-- Author(s):         Shalty#6039
+- Author(s):         .shallty
+- More information:  On the Koikatsu Discord's mod sharing channel.
+
+# KK_SceneEffectsPresets
+- Short description: The plugin allows for scene parameters such as shading/lighting and other user settings to be saved seperately so that one can load it whenever on whatever scene.
+- Author(s):         .shallty
 - More information:  On the Koikatsu Discord's mod sharing channel.
 
 # KK_SexFaces
