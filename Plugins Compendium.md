@@ -697,6 +697,11 @@
 - Author(s):         https://github.com/ManlyMarco
 - More information:  https://github.com/ManlyMarco/KK_GamepadSupport
 
+# HairShadowColorControl
+- Short description: Hair Shadow color control adds the function of being able to change the hair shadow color for ones characters within maker, this ability was available through material editor but now it can be done under the hair tab within character maker.
+- Author(s):         https://github.com/IllusionMods
+- More information:  https://github.com/IllusionMods/KK_Plugins
+
 # KK_GirlsClothesChange
 - Short description: Adds the ability to change character clothing setting them (On/Off) via keybindings. (The defualt isn't selected you have to set it up in the F1 Plugins menu)
 - Author(s):         Sabakan (サバカン)        
